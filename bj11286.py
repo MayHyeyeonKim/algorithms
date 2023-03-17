@@ -11,3 +11,4 @@ for _ in range(int(input())):
     else:
         print(hq.heappop(pq)[1] id pq else 0)
 
+# 아직 미완성
