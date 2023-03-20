@@ -1,4 +1,5 @@
 #Singly Linked List 
+#노드 만들기 
 
 class Node :
     def __init__(self, value = 0, next = None):
@@ -10,4 +11,4 @@ second = Node(2)
 third = Node(3)
 first.next = second
 second.next = third
-first.value = 6
+first.value = 8
