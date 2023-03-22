@@ -6,9 +6,12 @@ def two_sum(nums,target):
     for v in nums:
         needed_num = target - v
         if needed_num in dict:
+        # if needed_num in nums로 찾지 않은 이유: nums를 다 돌면 n이 되고, n을 for v in nums로 n번 돌면 n제곱이 되니 시간복잡도 나빠지니 (dict을 돌면 O(1)이니까)
             return v,needed_num
     return False
 
 # two_sum([4,5,6,7,8], 12)
-result = two_sum([4,5,6,7,8], 12)
+result = two_sum([4,5,6,7,8], 13)
 print(result)
+
+# 근데 이렇게 짜면 nums중에 숫자가 중복될 수 있으니 잘못된 거니, 다시 생각해봐야 해... ㅠㅠ
