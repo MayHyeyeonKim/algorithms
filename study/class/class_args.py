@@ -48,4 +48,4 @@ s4 = Student("Mike", 19, 3)
 s4.print_info()  # 이름: Mike, 나이: 19, 학년: 3
 
 s5 = Student("Mike", 19, 3, 'Korea')
-s5.print_info()  # 이름: Mike, 나이: 19, 학년: 3 까지만 나옴.
+s5.print_info()  # 이름: Mike, 나이: 19, 학년: 3 까지만 나옴. 왜냐면 국적 인자를 함수로 만들어 두지 않아서
