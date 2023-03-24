@@ -4,13 +4,13 @@ def dailyTemperatures(temperatures):
     ans = [0] * len(temperatures)
     stack = []
     for i in range(len(temperatures)):
-        while stack and temperatures[i] > temperatures[stack[-1]]:
+        while stack and temperatures[i] > temperatures[stack[-1]]: #temperatures[stack[i]]와 stack[i]차이?
             j = stack.pop()
             ans[j] = i - j
         stack.append(i)
     return ans
 
-# Input: temperatures = [73,74,75,71,69,72,76,73]
-# Output: [1,1,4,2,1,1,0,0]
 
-print(dailyTemperatures([73,74,75,71,69,72,76,73]))
+print(dailyTemperatures([73,74,75,71,69,72,76,73])) #[1, 1, 4, 2, 1, 1, 0, 0]
+print(dailyTemperatures([30,40,50,60])) #[1, 1, 1, 0]
+print(dailyTemperatures([30,60,90])) #[1,1,0]
