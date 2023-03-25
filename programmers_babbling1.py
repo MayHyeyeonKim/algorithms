@@ -8,6 +8,7 @@ def solution(babbling):
                 babble = babble[2:]
             else:
                 break
+            print(babble)
         if babble == "":
             answer += 1
     return answer
