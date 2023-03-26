@@ -24,6 +24,6 @@ def two_sum(nums, target):
         if target - num in dict and i != dict[target-num]:
             return i, dict[target-num]
     
-two_sum([4,5,6,7,8], 12)
+
 result = two_sum([4,5,6,7,8], 13)
 print(result)
