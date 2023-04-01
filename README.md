@@ -7,10 +7,10 @@
 - [x] [#944 Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)<br>
 <h1>2주차 Recursion</h1>
 - [x] [#509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)<br>
-- [ ] [#1137 N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)<br>
-- [ ] [#70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)<br>
+- [x] [#1137 N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)<br>
+- [x] [#70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)<br>
 <h1>3,4,5주차 Sorting & Searching</h1>
-- [ ] [#704 Binary Search](https://leetcode.com/problems/binary-search/)<br>
+- [x] [#704 Binary Search](https://leetcode.com/problems/binary-search/)<br>
 - [ ] [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)<br>
 - [ ] [#367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)<br>
 - [ ] [#35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)<br>
