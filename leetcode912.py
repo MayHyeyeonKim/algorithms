@@ -1,5 +1,6 @@
 #소트는 nlogn
-#타임리밋 나옴 
+#타임리밋 나옴
+#이게 퀵소트아냐?? 왜 chat cpt는 머지소트라는거야? 뭐가 맞는거야.. 
 
 class Solution:
     def sortArray(self, nums) -> int:
@@ -18,7 +19,7 @@ class Solution:
                 mid.append(x)
         return self.sortArray(left) + mid + self.sortArray(right)
 
-nums = [1,2,5,3,7,0,8]
+nums = [1,2,5,3,7,0]
 result = Solution()
 answer = result.sortArray(nums)
 print(answer)
