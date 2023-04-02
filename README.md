@@ -14,7 +14,7 @@
 - [x] [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)<br>
 - [x] [#367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)<br>
 - [x] [#35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)<br>
-- [ ] [#912 Sort an Array](https://leetcode.com/problems/sort-an-array/)<br>
+- [x] [#912 Sort an Array](https://leetcode.com/problems/sort-an-array/)<br>
 <h1>6주차 Linked List</h1>
 - [ ] [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br>
 - [ ] [#707 Design Linked List](https://leetcode.com/problems/design-linked-list/) (Medium이지만 해보길 추천)<br>
@@ -24,7 +24,7 @@
 - [ ] [#234 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)<br>
 - [ ] [#21 Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/)<br>
 <h1>7주차 Stack / Queue</h1>
-- [ ] [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)<br>
+- [x] [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)<br>
 - [ ] [#155 Min Stack](https://leetcode.com/problems/min-stack/)<br>
 - [ ] [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)<br>
 - [ ] [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)<br>
