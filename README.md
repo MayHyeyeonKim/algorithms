@@ -11,12 +11,10 @@
 - [x] [#70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)<br>
 <h1>3,4,5주차 Sorting & Searching</h1>
 - [x] [#704 Binary Search](https://leetcode.com/problems/binary-search/)<br>
-- [ ] [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)<br>
-- [ ] [#367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)<br>
-- [ ] [#35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)<br>
+- [x] [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)<br>
+- [x] [#367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)<br>
+- [x] [#35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)<br>
 - [ ] [#912 Sort an Array](https://leetcode.com/problems/sort-an-array/)<br>
-- [ ] [#367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)<br>
-- [ ] [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)<br>
 <h1>6주차 Linked List</h1>
 - [ ] [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br>
 - [ ] [#707 Design Linked List](https://leetcode.com/problems/design-linked-list/) (Medium이지만 해보길 추천)<br>
