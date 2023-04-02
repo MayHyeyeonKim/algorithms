@@ -1,4 +1,5 @@
-#Quick Sort -> 소트는 nlogn
+#소트는 nlogn
+#타임리밋 나옴 
 
 class Solution:
     def sortArray(self, nums) -> int:
@@ -17,7 +18,7 @@ class Solution:
                 mid.append(x)
         return self.sortArray(left) + mid + self.sortArray(right)
 
-nums = [1,2,5,3,7,0]
+nums = [1,2,5,3,7,0,8]
 result = Solution()
 answer = result.sortArray(nums)
 print(answer)
