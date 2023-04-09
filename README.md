@@ -30,15 +30,15 @@
 - [ ] [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)<br>
 - [ ] [#933 Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 <h1>8,9주차 Hash/ Tree</h1>
-- [ ] [#219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
-- [ ] [#706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
-- [ ] [#705. Design HashSet](https://leetcode.com/problems/design-hashset/)
-- [ ] [#104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] [#101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
-- [ ] [#112. Path Sum](https://leetcode.com/problems/path-sum/)
-- [ ] [#559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
-- [ ] [#98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (Medium)
-- [ ] [#404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
-- [ ] [#94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [ ] [#105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [ ] [#1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+- [ ] [#219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)<br>
+- [ ] [#706. Design HashMap](https://leetcode.com/problems/design-hashmap/)<br>
+- [ ] [#705. Design HashSet](https://leetcode.com/problems/design-hashset/)<br>
+- [ ] [#104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)<br>
+- [ ] [#101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)<br>
+- [ ] [#112. Path Sum](https://leetcode.com/problems/path-sum/)<br>
+- [ ] [#559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)<br>
+- [ ] [#98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (Medium)<br>
+- [ ] [#404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)<br>
+- [ ] [#94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)<br>
+- [ ] [#105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)<br>
+- [ ] [#1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)<br>
