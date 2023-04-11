@@ -25,7 +25,7 @@
 - [ ] [#21 Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/)<br>
 <h1>7주차 Stack / Queue</h1>
 - [x] [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)<br>
-- [ ] [#155 Min Stack](https://leetcode.com/problems/min-stack/)<br>
+- [x] [#155 Min Stack](https://leetcode.com/problems/min-stack/)<br>
 - [ ] [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)<br>
 - [ ] [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)<br>
 - [ ] [#933 Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
