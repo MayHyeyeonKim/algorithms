@@ -16,7 +16,6 @@ def maxDepth(root):
     return max_depth
 
 
-# Input: root = [3,9,20,None, None,15,7]
 
 class TreeNode:
     def __init__(self, l=None,r=None,v=0):
@@ -29,5 +28,6 @@ root.left = TreeNode(v=9)
 root.right = TreeNode(v=20)
 root.right.left = TreeNode(v=15)
 root.right.right = TreeNode(v=7)
-maxDepth(root)
-print(maxDepth(root))
+result = maxDepth(root)
+print(maxDepth(result))
+
