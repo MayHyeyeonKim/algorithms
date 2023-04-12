@@ -33,7 +33,7 @@
 - [ ] [#219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)<br>
 - [ ] [#706. Design HashMap](https://leetcode.com/problems/design-hashmap/)<br>
 - [ ] [#705. Design HashSet](https://leetcode.com/problems/design-hashset/)<br>
-- [ ] [#104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)<br>
+- [x] [#104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)<br>
 - [ ] [#101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)<br>
 - [ ] [#112. Path Sum](https://leetcode.com/problems/path-sum/)<br>
 - [ ] [#559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)<br>
