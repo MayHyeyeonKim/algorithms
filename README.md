@@ -16,7 +16,7 @@
 - [x] [#35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)<br>
 - [x] [#912 Sort an Array](https://leetcode.com/problems/sort-an-array/)<br>
 <h1>6주차 Linked List</h1>
-- [ ] [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br>
+- [x] [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br>
 - [ ] [#707 Design Linked List](https://leetcode.com/problems/design-linked-list/) (Medium이지만 해보길 추천)<br>
 - [ ] [#876 Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)<br>
 - [ ] [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)<br>
