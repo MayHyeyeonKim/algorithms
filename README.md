@@ -39,7 +39,7 @@
 - [ ] [#559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)<br>
 - [ ] [#98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (Medium)<br>
 - [ ] [#404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)<br>
-- [ ] [#94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)<br>
+- [x] [#94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)<br>
 - [ ] [#1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)<br>
 - [ ] [#105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)<br>
 <h1>10주차 Heap / BST</h1>
