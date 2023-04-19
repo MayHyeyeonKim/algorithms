@@ -22,7 +22,7 @@
 - [ ] [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)<br>
 - [ ] [#203 Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)<br>
 - [ ] [#234 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)<br>
-- [ ] [#21 Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/)<br>
+- [x] [#21 Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/)<br>
 <h1>7주차 Stack / Queue</h1>
 - [x] [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)<br>
 - [x] [#155 Min Stack](https://leetcode.com/problems/min-stack/)<br>
