@@ -19,8 +19,8 @@
 - [x] [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br>
 - [ ] [#707 Design Linked List](https://leetcode.com/problems/design-linked-list/) (Medium이지만 해보길 추천)<br>
 - [x] [#876 Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)<br>
-- [ ] [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)<br>
-- [ ] [#203 Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)<br>
+- [x] [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)<br>
+- [x] [#203 Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)<br>
 - [x] [#234 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)<br>
 - [x] [#21 Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/)<br>
 <h1>7주차 Stack / Queue</h1>
