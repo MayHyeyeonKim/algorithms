@@ -17,5 +17,6 @@ def bfs(graph, start_v):
                 visited.append(v)
                 queue.append(v)
     return visited
+
 result = bfs(graph, 'a')
 print(result)
