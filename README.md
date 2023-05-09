@@ -27,8 +27,8 @@
 - [x] [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)<br>
 - [x] [#155 Min Stack](https://leetcode.com/problems/min-stack/)<br>
 - [x] [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)<br>
-- [ ] [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)<br>
-- [ ] [#933 Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+- [x] [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)<br>
+- [x] [#933 Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 <h1>8,9주차 Hash/ Tree</h1>
 - [ ] [#219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)<br>
 - [ ] [#706. Design HashMap](https://leetcode.com/problems/design-hashmap/)<br>
