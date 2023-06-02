@@ -9,4 +9,10 @@ for char in S:
     else:
         freqs[char] += 1
 
+count = 0
+for char in J:
+    if char in freqs:
+        count += freqs[char]
+
 print(freqs)
+print(count)
