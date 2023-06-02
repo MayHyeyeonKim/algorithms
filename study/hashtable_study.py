@@ -2,6 +2,7 @@ J = "aA"
 S = "aAAbbbb"
 
 freqs = {}
+count = 0
 
 for char in S:
     if char not in freqs:
@@ -9,10 +10,9 @@ for char in S:
     else:
         freqs[char] += 1
 
-count = 0
+
 for char in J:
     if char in freqs:
-        count += freqs[char]
+        count += freqs[char]  # 그 char의 값에 접근해서 숫자를 count에 더함
 
-print(freqs)
-print(count)
+# return 못씀 왜냐뮨 이건 function이 아니니까
