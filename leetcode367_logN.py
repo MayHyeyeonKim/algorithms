@@ -1,3 +1,4 @@
+#O(logn) - 이진검색
 def isPerfectSquare(num) -> bool:
     left,right = 1, num
     while left <= right:

@@ -9,6 +9,7 @@ class Solution:
             elif p == '[':
                 stk.append(']')
             elif not stk or stk.pop() != p: 
+                print (stk.pop())
                 return False
         return not stk
 

@@ -11,8 +11,8 @@ class Solution:
         reversed_words =[]
         for word in words:
             reversed_words.append(word[::-1])
-        # return reversed_words   #이렇게 하니 출력이 리스트로 나와서 망함 ["s'teL", 'ekat', 'edoCteeL', 'tsetnoc']    
-        return ' '.join(reversed_words)
+        return reversed_words   #이렇게 하니 출력이 리스트로 나와서 망함 ["s'teL", 'ekat', 'edoCteeL', 'tsetnoc']    
+        # return ' '.join(reversed_words)
 
 result = Solution()
 s = "Let's take LeetCode contest"

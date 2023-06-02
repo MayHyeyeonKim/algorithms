@@ -9,7 +9,7 @@ class RecentCounter:
         self.queue = deque()
 
     def ping(self, t):
-        self.queue.append(t)
-        while self.queue[0] < t - 3000:
-            self.queue.popleft()
-        return len(self.queue)
+        self.queue.append(t) #일단 t값을 큐에 추가해야겠지
+        while self.queue[0] < t - 3000: #그리고 큐의 첫 번째 요소가 t-3000보다 작아질 때 
+            self.queue.popleft() #첫번째 요소 팝한다.
+        return len(self.queue) #남은 애들 갯수 반환
