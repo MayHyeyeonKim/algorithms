@@ -1,0 +1,20 @@
+def playGolf(outlook, windy, humidity):
+    if outlook == "rainy":
+        if windy == "True":
+            print("play")
+        else:
+            print("play")
+    elif outlook == "overcast":
+        print("play")
+    elif outlook == "sunny":
+        if humidity == "high":
+            print("don't play")
+        elif humidity == "normal":
+            print("play")
+
+
+if __name__ == "__main__":
+    outlook = input()
+    windy = input()
+    humidity = input()
+    playGolf(outlook, windy, humidity)
