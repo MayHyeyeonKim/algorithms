@@ -1,4 +1,4 @@
-<h1>2024 2분기 알고리즘 스터디</h1>
+<h1>:feet:2024 2분기 알고리즘 스터디:feet:</h1>
 <h2>1주차 Intro - doubly linkedList, LRU(146)</h2>
 - [x] [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)<br>
 - [x] [#142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)<br>
@@ -23,7 +23,7 @@
 
 <br>
 <br>
-<h1>2024 1분기 알고리즘 스터디</h1>
+<h1>:feet:2024 1분기 알고리즘 스터디:feet:</h1>
 <h2>1주차 Intro, Array, String</h2>
 - [x] [#344 Reverse String](https://leetcode.com/problems/reverse-string/)<br>
 - [x] [#541 Reverse String II](https://leetcode.com/problems/reverse-string-ii/)<br>
