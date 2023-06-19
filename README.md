@@ -8,7 +8,7 @@
 - [ ] [#1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)<br>
 <h2>3주차 n-ary Tree</h2>
 - [ ] [#559. Maximum Depth of N-ary Treeh](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)<br>
-- [ ] [#589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)<br>
+- [x] [#589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)<br>
 - [ ] [#590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)<br>
 - [ ] [#429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)<br>
 <h2>4주차 Heap (설명, design heap)</h2>
