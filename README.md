@@ -12,7 +12,7 @@
 - [ ] [#590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)<br>
 - [ ] [#429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)<br>
 <h2>4주차 Heap (설명, design heap)</h2>
-- [ ] [#1464. Maximum Product~](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)<br>
+- [ ] [#1464. Maximum P~](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)<br>
 - [ ] [#2357. Make Array Zero~](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)<br>
 - [ ] [#1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)<br>
 - [ ] [#2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)<br>
