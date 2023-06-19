@@ -1,3 +1,5 @@
+from collections import deque
+
 """
 # Definition for a Node.
 class Node:
@@ -34,3 +36,16 @@ class Solution:
 #             output.append(temp.val)  # 노드의 값을 저장
 #             stack.extend(temp.children[::-1])
 #         return output
+
+
+class Solution:
+    def preorder(self, root):
+        q = deque([root])
+        output = list()
+
+        while q:
+            candidate = q.popleft()
+            output.append(candidate.val)
+            for children in reversed(candidate.children):
+                q.appendleft(children)
+        return output
