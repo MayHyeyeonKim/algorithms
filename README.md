@@ -12,7 +12,14 @@
 - [ ] [#590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)<br>
 - [ ] [#429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)<br>
 <h2>4주차 Heap (설명, design heap)</h2>
-
+- [ ] [#1464. Maximum Product of Two Elements in an Array
+](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)<br>
+- [ ] [#2357. Make Array Zero by Subtracting Equal Amounts
+](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)<br>
+- [ ] [#1337. The K Weakest Rows in a Matrix
+](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)<br>
+- [ ] [#2558. Take Gifts From the Richest Pile
+](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)<br>
 <h2>5주차 Graph - graph 자료구조 만들기, / dfs, bfs / union find(disjoint set)</h2>
 
 <h2>6주차 Graph - 다익스트라(shortest path), 칸(topological order)</h2>
