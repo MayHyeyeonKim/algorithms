@@ -1,0 +1,28 @@
+def isLeapYear(year):
+    if year % 100 == 0 and year % 400 == 0:  # Condition 1 for leap year
+        return True
+    elif year % 100 != 0 and year % 4 == 0:  # Condition 2 for leap year
+        return True
+    else:  # If both not satisfied, then not a leap year
+        return False
+
+
+def double_population(weeks):
+    ans = 1
+    for i in range(weeks):
+        ans = ans * 2
+    return ans
+
+
+def last_fact_digit(n):
+    factorial = 1
+    if n < 0:
+        return "plz enter non-negative int"
+    else:
+        for i in range(1, n + 1):
+            factorial = factorial * i
+        return factorial % 10
+
+
+num = int(input())
+print(last_fact_digit(num))
