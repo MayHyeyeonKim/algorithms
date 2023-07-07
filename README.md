@@ -17,7 +17,12 @@
 - [x] [#1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)<br>
 - [x] [#2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)<br>
 <h2>5주차 Graph - graph 자료구조 만들기, / dfs, bfs / union find(disjoint set)</h2>
-
+- [ ] [#743. Network Delay Time
+](https://leetcode.com/problems/network-delay-time/?envType=list&envId=53js48ke)<br>
+- [ ] [#1514. Path with Maximum Probability
+](https://leetcode.com/problems/path-with-maximum-probability/?envType=list&envId=53js48ke)<br>
+- [ ] [#1631. Path With Minimum Effort
+](https://leetcode.com/problems/path-with-minimum-effort/?envType=list&envId=53js48ke)<br>
 <h2>6주차 Graph - 다익스트라(shortest path), 칸(topological order)</h2>
 
 <h2>7주차 dynamic programing - easy</h2>
