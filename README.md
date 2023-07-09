@@ -23,7 +23,7 @@
 <h2>6주차 Graph - 다익스트라(shortest path), 칸(topological order)</h2>
 - [x] [#743. NetworkDT](https://leetcode.com/problems/network-delay-time/?envType=list&envId=53js48ke)<br>
 - [ ] [#1514. MxP](https://leetcode.com/problems/path-with-maximum-probability/?envType=list&envId=53js48ke)<br>
-- [ ] [#1631. Min Effort](https://leetcode.com/problems/path-with-minimum-effort/?envType=list&envId=53js48ke)<br>
+- [x] [#1631. Min Effort](https://leetcode.com/problems/path-with-minimum-effort/?envType=list&envId=53js48ke)<br>
 <h2>7주차 dynamic programing - easy</h2>
 
 <h2>8,9주차 Knapsack, backtracking / greedy /Knapsack2 </h2>
