@@ -31,6 +31,6 @@ class Solution:
 
 
 solution = Solution()  # Solution 클래스의 인스턴스 생성
-heights = [[1, 2, 2], [3, 8, 2], [5, 3, 5]]
+heights = [[1, 2, 9], [3, 8, 2], [5, 3, 5]]
 result = solution.minimumEffortPath(heights)  # 인스턴스를 사용하여 메서드 호출
 print(result)
