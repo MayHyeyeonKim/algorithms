@@ -25,7 +25,12 @@
 - [ ] [#1514. MxP](https://leetcode.com/problems/path-with-maximum-probability/?envType=list&envId=53js48ke)<br>
 - [x] [#1631. Min Effort](https://leetcode.com/problems/path-with-minimum-effort/?envType=list&envId=53js48ke)<br>
 <h2>7주차 dynamic programing - easy</h2>
-
+- [ ] [#338. Counting Bits](https://leetcode.com/problems/counting-bits/)<br>
+- [ ] [#118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)<br>
+- [ ] [#1025. Divisor Game](https://leetcode.com/problems/divisor-game/)<br>
+- [ ] [#746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)<br>
+- [x] [#509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)<br>
+- [x] [#1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)<br>
 <h2>8,9주차 Knapsack, backtracking / greedy /Knapsack2 </h2>
 
 <br>
