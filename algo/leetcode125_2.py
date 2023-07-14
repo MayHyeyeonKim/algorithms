@@ -1,4 +1,4 @@
-# slicing
+# 데크 자료형을 이용한 최적화
 import collections
 from collections import deque
 
