@@ -2,7 +2,7 @@
 
 
 class Solution:
-    def isPalindrome(self, s: str) -> bool:
+    def isPalindrome(self, s: str):
         strs = []
         for char in s:
             if char.isalnum():
