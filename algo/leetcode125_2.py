@@ -4,7 +4,7 @@ from collections import deque
 
 
 class Solution:
-    def isPalindrome(self, s: str) -> bool:
+    def isPalindrome(self, s: str):
         strs: deque = deque()
 
         for char in s:
