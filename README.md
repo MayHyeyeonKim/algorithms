@@ -39,6 +39,8 @@
 - [ ] [#1221. Split a String in~](https://leetcode.com/problems/split-a-string-in-balanced-strings/)<br>
 - [ ] [#2656. Maximum Sum~](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)<br>
 - [ ] [#1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)<br>
+<h2>10,11,12,13,14,15주차 Leetcode75 & Mock Interview & Retrospective </h2>
+- [ ] [Leetcode75](https://leetcode.com/studyplan/leetcode-75/)<br>
 
 <br>
 <br>
