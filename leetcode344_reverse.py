@@ -4,3 +4,6 @@ class Solution:
         Do not return anything, modify s in-place instead.
         """
         s.reverse()
+
+
+# Pythonic way

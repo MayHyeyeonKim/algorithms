@@ -32,6 +32,13 @@
 - [x] [#509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)<br>
 - [x] [#1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)<br>
 <h2>8,9주차 Knapsack, backtracking / greedy /Knapsack2 </h2>
+- [ ] [#1863. Sum of ASXT](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)<br>
+- [ ] [#257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)<br>
+- [ ] [#401. Binary Watch](https://leetcode.com/problems/binary-watch/)<br>
+- [ ] [#2160. Minimum Sum of ~](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)<br>
+- [ ] [#1221. Split a String in~](https://leetcode.com/problems/split-a-string-in-balanced-strings/)<br>
+- [ ] [#2656. Maximum Sum~](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)<br>
+- [ ] [#1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)<br>
 
 <br>
 <br>
