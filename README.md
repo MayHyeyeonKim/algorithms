@@ -2,12 +2,12 @@
 <h3> LeetCode 75 (https://leetcode.com/studyplan/leetcode-75/) </h3>
 
 <h2>Week1 Array/String, Two Pointers, Sliding Window </h2>
-- [ ] [#1768](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#283](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#392](https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#643](https://leetcode.com/problems/maximum-average-subarray-i/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#1768](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#283](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#392](https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#643](https://leetcode.com/problems/maximum-average-subarray-i/?envType=study-plan-v2&envId=leetcode-75)<br>
 
 <h2>Week2 Prefix Sum, Hash Map/Set, Stack, Queue</h2>
 - [ ] [#1732](https://leetcode.com/problems/find-the-highest-altitude/?envType=study-plan-v2&envId=leetcode-75)<br>
