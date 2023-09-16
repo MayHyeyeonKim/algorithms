@@ -10,10 +10,10 @@
 - [x] [#643](https://leetcode.com/problems/maximum-average-subarray-i/?envType=study-plan-v2&envId=leetcode-75)<br>
 
 <h2>Week2 Prefix Sum, Hash Map/Set, Stack, Queue</h2>
-- [ ] [#1732](https://leetcode.com/problems/find-the-highest-altitude/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#724](https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#1207](https://leetcode.com/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#1732](https://leetcode.com/problems/find-the-highest-altitude/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#724](https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#1207](https://leetcode.com/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75)<br>
 - [ ] [#394](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75)<br>
 - [ ] [#933](https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75)<br>
 
