@@ -18,3 +18,6 @@ class Solution:
             return check(cow.left, bull.left) and check(cow.right, bull.right)
 
         return check(p, q)
+
+
+# T.C : O( ) / S.C : O( )

@@ -11,3 +11,5 @@ def moveZeroes(nums):
 nums = [1, 2, 0, 12, 0, 14]
 moveZeroes(nums)
 print(nums)
+
+# T.C : O(n) / S.C : O(1)

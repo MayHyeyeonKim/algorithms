@@ -10,3 +10,6 @@ def findMaxAverage(nums, k):
         currentSum += nums[i] - nums[i - k]
         maxSum = max(maxSum, currentSum)
     return maxSum / k
+
+
+# T.C : O(n) / S.C : O(1)

@@ -12,3 +12,5 @@ def isSubsequence(s, t):
 s1 = "abc"
 t1 = "ahbgdc"
 print(isSubsequence(s1, t1))
+
+# T.C : O(n) / S.C : O(1)

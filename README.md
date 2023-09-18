@@ -14,17 +14,17 @@
 - [x] [#724](https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75)<br>
 - [x] [#2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75)<br>
 - [x] [#1207](https://leetcode.com/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#394](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#933](https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#394](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#933](https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75)<br>
 
 <h2>Week3 Linked List, Binary Tree - DFS/BFS, Binary Search Tree</h2>
-- [ ] [#206](https://leetcode.com/problems/reverse-linked-list/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#872](https://leetcode.com/problems/leaf-similar-trees/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#700](https://leetcode.com/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75/)<br>
+- [x] [#206](https://leetcode.com/problems/reverse-linked-list/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#872](https://leetcode.com/problems/leaf-similar-trees/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#700](https://leetcode.com/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75/)<br>
 
 <h2>Week4 Graphs - DFS/BFS, Heap / Priority Queue, Binary Search, Backtracking, DP, Trie</h2>
-- [ ] [#841](https://leetcode.com/problems/keys-and-rooms/?envType=study-plan-v2&envId=leetcode-75/)<br>
+- [x] [#841](https://leetcode.com/problems/keys-and-rooms/?envType=study-plan-v2&envId=leetcode-75/)<br>
 - [ ] [#994](https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75)<br>
 - [ ] [#215](https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=study-plan-v2&envId=leetcode-75)<br>
 - [ ] [#374](https://leetcode.com/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75)<br>

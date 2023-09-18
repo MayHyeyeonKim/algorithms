@@ -11,3 +11,5 @@ def kidsWithCandies(candies, extraCandies):
 
 r = kidsWithCandies([2, 3, 5, 1, 3], 3)
 print(r)
+
+# T.C : O(n) / S.C : O(n)

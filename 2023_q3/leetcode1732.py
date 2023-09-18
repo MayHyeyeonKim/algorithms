@@ -5,3 +5,6 @@ def largestAltitude(self, gain: List[int]) -> int:
         curAltitude += i
         maxAltitude = max(maxAltitude, curAltitude)
     return maxAltitude
+
+
+# T.C : O(n) / S.C : O(1)

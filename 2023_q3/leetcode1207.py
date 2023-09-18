@@ -12,3 +12,6 @@ def uniqueOccurences(arr):
 
 arr = [1, 5, 1, 5, 3]
 print(uniqueOccurences(arr))
+
+
+# T.C : O(n) / S.C : O(n)

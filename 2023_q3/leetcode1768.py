@@ -7,3 +7,6 @@ def mergeAlternately(word1, word2):
 
 r = mergeAlternately("abc", "opqrstu")
 print(r)
+
+
+# T.C : O(n) / S.C : O(n)

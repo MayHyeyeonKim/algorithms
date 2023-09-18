@@ -9,3 +9,5 @@ def findGcd(str1, str2):
 
 r = findGcd("abcabc", "abc")
 print(r)
+
+# T.C : O(depend on GCD) / S.C : O(1)
