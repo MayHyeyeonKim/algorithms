@@ -25,9 +25,9 @@
 
 <h2>Week4 Graphs - DFS/BFS, Heap / Priority Queue, Binary Search, Backtracking, DP, Trie</h2>
 - [x] [#841](https://leetcode.com/problems/keys-and-rooms/?envType=study-plan-v2&envId=leetcode-75/)<br>
-- [ ] [#994](https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#215](https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [ ] [#374](https://leetcode.com/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#994](https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#215](https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=study-plan-v2&envId=leetcode-75)<br>
+- [x] [#374](https://leetcode.com/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75)<br>
 - [ ] [#17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/?envType=study-plan-v2&envId=leetcode-75)<br>
 - [ ] [#746](https://leetcode.com/problems/min-cost-climbing-stairs/?envType=study-plan-v2&envId=leetcode-75)<br>
 - [ ] [#208](https://leetcode.com/problems/implement-trie-prefix-tree/?envType=study-plan-v2&envId=leetcode-75)<br>
