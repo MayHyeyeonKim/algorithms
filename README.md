@@ -28,7 +28,7 @@
     <li>23  <a href="https://leetcode.com/problems/shortest-bridge/?envType=study-plan-v2&envId=leetcode-75/">#934 Shortest Bridge</a></li>
     <li>24  <a href="https://leetcode.com/problems/univalued-binary-tree/">#965 Univalued Binary Tree</a></li>
     <li>25  <a href="https://leetcode.com/problems/cousins-in-binary-tree/">#993 Cousins in Binary Tree</a></li>
-    <li>26✓  <a href="https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75/">#994 Rotting Oranges</a></li>
+    <li>26  <a href="https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75/">#994 Rotting Oranges</a> ✓</li>
     <li>27  <a href="https://leetcode.com/problems/shortest-path-in-binary-matrix/?envType=study-plan-v2&envId=leetcode-75/">#1091 Shortest Path in Binary Matrix</a></li>
     <li>28  <a href="https://leetcode.com/problems/number-of-operations-to-make-network-connected/?envType=study-plan-v2&envId=leetcode-75/">#1319 Number of Operations to Make Network Connected</a></li>
     <li>29  <a href="https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/">#1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree</a></li>
