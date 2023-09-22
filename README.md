@@ -45,7 +45,7 @@
     <li>✓ <a href="https://leetcode.com/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75/">#700 Search in a Binary Search Tree</a></li>
 </ul>
 
-<h2>Week4 Graphs - DFS/BFS, Heap / Priority Queue, Binary Search, Backtracking, DP, Trie</h2>
+<h2>Week4 Graphs DFS/BFS Heap Priority Queue BS, Bt, DP, Trie</h2>
 <ul>
     <li>✓ <a href="https://leetcode.com/problems/keys-and-rooms/?envType=study-plan-v2&envId=leetcode-75/">#841 Keys and Rooms</a></li>
     <li>✓ <a href="https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75/">#994 Rotting Oranges</a></li>
