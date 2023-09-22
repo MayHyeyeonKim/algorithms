@@ -18,37 +18,43 @@
 <h1>:feet: 2023 Q3 (Sep) :feet:</h1>
 <h3> LeetCode 75 (https://leetcode.com/studyplan/leetcode-75/) </h3>
 
-<h2>Week1 Array/String, Two Pointers, Sliding Window </h2>
-- [x] [#1768](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#283](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#392](https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#643](https://leetcode.com/problems/maximum-average-subarray-i/?envType=study-plan-v2&envId=leetcode-75)<br>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75/">#1768 Merge Strings Alternately</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75/">#1071 Greatest Common Divisor of Strings</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/?envType=study-plan-v2&envId=leetcode-75/">#1431 Kids With the Greatest Number of Candies</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75/">#283 Move Zeroes</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=leetcode-75/">#392 Is Subsequence</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/maximum-average-subarray-i/?envType=study-plan-v2&envId=leetcode-75/">#643 Maximum Average Subarray I</a></li>
+</ul>
 
 <h2>Week2 Prefix Sum, Hash Map/Set, Stack, Queue</h2>
-- [x] [#1732](https://leetcode.com/problems/find-the-highest-altitude/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#724](https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#1207](https://leetcode.com/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#394](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#933](https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75)<br>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/find-the-highest-altitude/?envType=study-plan-v2&envId=leetcode-75/">#1732 Find the Highest Altitude</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75/">#724 Find Pivot Index</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75/">#2215 Find the Difference of Two Arrays</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75/">#1207 Unique Number of Occurrences</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75/">#394 Decode String</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75/">#933 Number of Recent Calls</a></li>
+</ul>
 
 <h2>Week3 Linked List, Binary Tree - DFS/BFS, Binary Search Tree</h2>
-- [x] [#206](https://leetcode.com/problems/reverse-linked-list/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#872](https://leetcode.com/problems/leaf-similar-trees/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#700](https://leetcode.com/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75/)<br>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/reverse-linked-list/?envType=study-plan-v2&envId=leetcode-75/">#206 Reverse Linked List</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=leetcode-75/">#104 Maximum Depth of Binary Tree</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/leaf-similar-trees/?envType=study-plan-v2&envId=leetcode-75/">#872 Leaf-Similar Trees</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75/">#700 Search in a Binary Search Tree</a></li>
+</ul>
 
 <h2>Week4 Graphs - DFS/BFS, Heap / Priority Queue, Binary Search, Backtracking, DP, Trie</h2>
-- [x] [#841](https://leetcode.com/problems/keys-and-rooms/?envType=study-plan-v2&envId=leetcode-75/)<br>
-- [x] [#994](https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#215](https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#374](https://leetcode.com/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#746](https://leetcode.com/problems/min-cost-climbing-stairs/?envType=study-plan-v2&envId=leetcode-75)<br>
-- [x] [#208](https://leetcode.com/problems/implement-trie-prefix-tree/?envType=study-plan-v2&envId=leetcode-75)<br>
-
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/keys-and-rooms/?envType=study-plan-v2&envId=leetcode-75/">#841 Keys and Rooms</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75/">#994 Rotting Oranges</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=study-plan-v2&envId=leetcode-75/">#215 Kth Largest Element in an Array</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75/">#374 Guess Number Higher or Lower</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/?envType=study-plan-v2&envId=leetcode-75/">#17 Letter Combinations of a Phone Number</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/min-cost-climbing-stairs/?envType=study-plan-v2&envId=leetcode-75/">#746 Min Cost Climbing Stairs</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/implement-trie-prefix-tree/?envType=study-plan-v2&envId=leetcode-75/">#208 Implement Trie (Prefix Tree)</a></li>
+</ul>
 <br>
 <br>
 
