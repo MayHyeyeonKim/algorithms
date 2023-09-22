@@ -3,14 +3,21 @@
 
 <h2>DFS/BFS</h2>
 <ul>
-        <li><a href="https://leetcode.com/problems/keys-and-rooms/?envType=study-plan-v2&envId=leetcode-75/">#841 Keys and Rooms</a></li>
-        <li><a href="https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75/">#994 Rotting Oranges</a></li>
-        <li><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=study-plan-v2&envId=leetcode-75/">#215 Kth Largest Element in an Array</a></li>
-        <li><a href="https://leetcode.com/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75/">#374 Guess Number Higher or Lower</a></li>
-        <li><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/?envType=study-plan-v2&envId=leetcode-75/">#17 Letter Combinations of a Phone Number</a></li>
-        <li><a href="https://leetcode.com/problems/min-cost-climbing-stairs/?envType=study-plan-v2&envId=leetcode-75/">#746 Min Cost Climbing Stairs</a></li>
-        <li><a href="https://leetcode.com/problems/implement-trie-prefix-tree/?envType=study-plan-v2&envId=leetcode-75/">#208 Implement Trie (Prefix Tree)</a></li>
-    </ul>
+    <li>  <a href="https://leetcode.com/problems/number-of-islands/?envType=study-plan-v2&envId=leetcode-75/">#200 Number of Islands</a></li>
+    <li>  <a href="https://leetcode.com/problems/clone-graph/?envType=study-plan-v2&envId=leetcode-75/">#133 Clone Graph</a></li>
+    <li>  <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/?envType=study-plan-v2&envId=leetcode-75/">#102 Binary Tree Level Order Traversal</a></li>
+    <li>  <a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/?envType=study-plan-v2&envId=leetcode-75/">#103 Binary Tree Zigzag Level Order Traversal</a></li>
+    <li>  <a href="https://leetcode.com/problems/max-area-of-island/?envType=study-plan-v2&envId=leetcode-75/">#695 Max Area of Island</a></li>
+    <li>  <a href="https://leetcode.com/problems/surrounded-regions/?envType=study-plan-v2&envId=leetcode-75/">#130 Surrounded Regions</a></li>
+    <li>  <a href="https://leetcode.com/problems/minimum-genetic-mutation/?envType=study-plan-v2&envId=leetcode-75/">#433 Minimum Genetic Mutation</a></li>
+    <li>  <a href="https://leetcode.com/problems/number-of-operations-to-make-network-connected/?envType=study-plan-v2&envId=leetcode-75/">#1319 Number of Operations to Make Network Connected</a></li>
+    <li>  <a href="https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75/">#994 Rotting Oranges</a></li>
+    <li>  <a href="https://leetcode.com/problems/employee-importance/?envType=study-plan-v2&envId=leetcode-75/">#690 Employee Importance</a></li>
+    <li>  <a href="https://leetcode.com/problems/shortest-bridge/?envType=study-plan-v2&envId=leetcode-75/">#934 Shortest Bridge</a></li>
+    <li>  <a href="https://leetcode.com/problems/word-search/?envType=study-plan-v2&envId=leetcode-75/">#79 Word Search</a></li>
+    <li>  <a href="https://leetcode.com/problems/shortest-path-in-binary-matrix/?envType=study-plan-v2&envId=leetcode-75/">#1091 Shortest Path in Binary Matrix</a></li>
+    <li>  <a href="https://leetcode.com/problems/symmetric-tree/?envType=study-plan-v2&envId=leetcode-75/">#101 Symmetric Tree</a></li>
+</ul>
 
 <br>
 <br>
