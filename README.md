@@ -1,3 +1,20 @@
+<h1>:feet: 2023 Q3-1 (Sep) :feet:</h1>
+<h3> LeetCode 75 (https://leetcode.com/studyplan/leetcode-75/) </h3>
+
+<h2>DFS/BFS</h2>
+<ul>
+        <li><a href="https://leetcode.com/problems/keys-and-rooms/?envType=study-plan-v2&envId=leetcode-75/">#841 Keys and Rooms</a></li>
+        <li><a href="https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75/">#994 Rotting Oranges</a></li>
+        <li><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=study-plan-v2&envId=leetcode-75/">#215 Kth Largest Element in an Array</a></li>
+        <li><a href="https://leetcode.com/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75/">#374 Guess Number Higher or Lower</a></li>
+        <li><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/?envType=study-plan-v2&envId=leetcode-75/">#17 Letter Combinations of a Phone Number</a></li>
+        <li><a href="https://leetcode.com/problems/min-cost-climbing-stairs/?envType=study-plan-v2&envId=leetcode-75/">#746 Min Cost Climbing Stairs</a></li>
+        <li><a href="https://leetcode.com/problems/implement-trie-prefix-tree/?envType=study-plan-v2&envId=leetcode-75/">#208 Implement Trie (Prefix Tree)</a></li>
+    </ul>
+
+<br>
+<br>
+
 <h1>:feet: 2023 Q3 (Sep) :feet:</h1>
 <h3> LeetCode 75 (https://leetcode.com/studyplan/leetcode-75/) </h3>
 
