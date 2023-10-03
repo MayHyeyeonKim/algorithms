@@ -59,7 +59,7 @@
 <br>
 
 <h1>:feet: 2023 Q3-1 (Sep) :feet:</h1>
-<h2>DFS/BFS</h2>
+<h3>DFS/BFS</h3>
 <ul>
     <li>1✓  <a href="https://leetcode.com/problems/word-search/?envType=study-plan-v2&envId=leetcode-75/">#79 Word Search</a></li>
     <li>2  <a href="https://leetcode.com/problems/same-tree/">#100 Same Tree</a></li>
