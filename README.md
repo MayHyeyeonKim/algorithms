@@ -1,6 +1,64 @@
-<h1>:feet: 2023 Q3-1 (Sep) :feet:</h1>
-<h3> LeetCode 75 (https://leetcode.com/studyplan/leetcode-75/) </h3>
+<h1>:feet: 2023 Q4 (Oct-Dec) :feet:</h1>
+<h2>Week1 Array, String</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75/">#344. Reverse String</a></li>
+    <li>✓ <a href="https://leetcode.com/problems/two-sum/">#1. Two Sum</a></li>
+</ul>
 
+<h2>Week2 Recursion</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75/">#344. Reverse String</a></li>
+</ul>
+
+<h2>Week3 Sorting1 & Searching</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/binary-search/">#704. Binary Search</a></li>
+</ul>
+
+<h2>Week4 Sorting2</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/sort-an-array/">#912. Sort an Array</a></li>
+</ul>
+
+<h2>Week5 Linked List</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/reverse-linked-list/">#206. Reverse Linked List</a></li>
+</ul>
+
+<h2>Week6 Stack/Queue</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/valid-parentheses/">#20. Valid Parentheses</a></li>
+</ul>
+
+<h2>Week7 Hash</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/contains-duplicate-ii/">#219. Contains Duplicate II</a></li>
+</ul>
+
+<h2>Week8 Tree & Binary Search Tree</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">#104. Maximum Depth of Binary Tree</a></li>
+</ul>
+
+<h2>Week9 Tree Traversal</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">#94. Binary Tree Inorder Traversal</a></li>
+</ul>
+
+<h2>Week10 Mock Interview</h2>
+
+<h2>Week11 Tree Traversal</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">#94. Binary Tree Inorder Traversal</a></li>
+</ul>
+
+<h2>Week12 Heap</h2>
+<ul>
+    <li>✓ <a href="https://leetcode.com/problems/last-stone-weight/">#1046. Last Stone Weight</a></li>
+</ul>
+<br>
+
+<h1>:feet: 2023 Q3-1 (Sep) :feet:</h1>
 <h2>DFS/BFS</h2>
 <ul>
     <li>1✓  <a href="https://leetcode.com/problems/word-search/?envType=study-plan-v2&envId=leetcode-75/">#79 Word Search</a></li>
@@ -12,7 +70,7 @@
     <li>7  <a href="https://leetcode.com/problems/path-sum/">#112 Path Sum</a></li>
     <li>8  <a href="https://leetcode.com/problems/surrounded-regions/?envType=study-plan-v2&envId=leetcode-75/">#130 Surrounded Regions</a></li>
     <li>9  <a href="https://leetcode.com/problems/clone-graph/?envType=study-plan-v2&envId=leetcode-75/">#133 Clone Graph</a></li>
-    <li>10✓  <a href="https://leetcode.com/problems/number-of-islands/?envType=study-plan-v2&envId=leetcode-75/">#200 Number of Islands</a></li>
+    <li>10  <a href="https://leetcode.com/problems/number-of-islands/?envType=study-plan-v2&envId=leetcode-75/">#200 Number of Islands</a></li>
     <li>11  <a href="https://leetcode.com/problems/invert-binary-tree/">#226 Invert Binary Tree</a></li>
     <li>12  <a href="https://leetcode.com/problems/sum-of-left-leaves/">#404 Sum of Left Leaves</a></li>
     <li>13  <a href="https://leetcode.com/problems/minimum-genetic-mutation/?envType=study-plan-v2&envId=leetcode-75/">#433 Minimum Genetic Mutation</a></li>
@@ -42,6 +100,7 @@
 <h1>:feet: 2023 Q3 (Sep) :feet:</h1>
 <h3> LeetCode 75 (https://leetcode.com/studyplan/leetcode-75/) </h3>
 
+<h2>Week1 Array, String</h2>
 <ul>
     <li>✓ <a href="https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75/">#1768 Merge Strings Alternately</a></li>
     <li>✓ <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75/">#1071 Greatest Common Divisor of Strings</a></li>
