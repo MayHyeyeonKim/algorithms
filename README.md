@@ -61,10 +61,10 @@
 <h1>:feet: 2023 Q3-1 (Sep) :feet:</h1>
 <h3>DFS/BFS</h3>
 <ul>
-    <li>1✓  <a href="https://leetcode.com/problems/word-search/?envType=study-plan-v2&envId=leetcode-75/">#79 Word Search</a></li>
-    <li>2  <a href="https://leetcode.com/problems/same-tree/">#100 Same Tree</a></li>
-    <li>3  <a href="https://leetcode.com/problems/symmetric-tree/?envType=study-plan-v2&envId=leetcode-75/">#101 Symmetric Tree</a></li>
-    <li>4  <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/?envType=study-plan-v2&envId=leetcode-75/">#102 Binary Tree Level Order Traversal</a></li>
+    <li>1  <a href="https://leetcode.com/problems/word-search/?envType=study-plan-v2&envId=leetcode-75/">#79 Word Search</a>✓</li>
+    <li>2  <a href="https://leetcode.com/problems/same-tree/">#100 Same Tree</a>✓</li>
+    <li>3  <a href="https://leetcode.com/problems/symmetric-tree/?envType=study-plan-v2&envId=leetcode-75/">#101 Symmetric Tree</a>✓</li>
+    <li>4  <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/?envType=study-plan-v2&envId=leetcode-75/">#102 Binary Tree Level Order Traversal</a>✓</li>
     <li>5  <a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/?envType=study-plan-v2&envId=leetcode-75/">#103 Binary Tree Zigzag Level Order Traversal</a></li>
     <li>6  <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">#111 Minimum Depth of Binary Tree</a></li>
     <li>7  <a href="https://leetcode.com/problems/path-sum/">#112 Path Sum</a></li>
