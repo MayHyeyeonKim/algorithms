@@ -17,12 +17,12 @@ By meeting these conditions, DP algorithms can efficiently solve complex problem
 
 # LeetCode Dynamic Programming (DP) Problems
 
-1. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+1. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ✓
 2. [Coin Change](https://leetcode.com/problems/coin-change/)
 3. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 4. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 5. [House Robber](https://leetcode.com/problems/house-robber/)
-6. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+6. [Unique Paths](https://leetcode.com/problems/unique-paths/) ✓
 7. [Edit Distance](https://leetcode.com/problems/edit-distance/)
 8. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 9. [Word Break](https://leetcode.com/problems/word-break/)
@@ -42,7 +42,7 @@ By meeting these conditions, DP algorithms can efficiently solve complex problem
 23. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 24. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 25. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-26. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+26. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) ✓
 27. [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
 28. [Minimum Swaps to Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)
 29. [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
