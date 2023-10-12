@@ -1,3 +1,6 @@
+# DP - Bottom up
+
+
 class Solution:
     def climbStairs(n):
         if n == 1:
@@ -17,6 +20,6 @@ class Solution:
 
 
 sol = Solution
-n = 4
+n = 6
 ans = sol.climbStairs(n)
 print(ans)
