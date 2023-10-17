@@ -10,7 +10,7 @@
     <li>7  <a href="https://leetcode.com/problems/path-sum/">#112 Path Sum</a></li>
     <li>8  <a href="https://leetcode.com/problems/surrounded-regions/?envType=study-plan-v2&envId=leetcode-75/">#130 Surrounded Regions</a></li>
     <li>9  <a href="https://leetcode.com/problems/clone-graph/?envType=study-plan-v2&envId=leetcode-75/">#133 Clone Graph</a></li>
-    <li>10  <a href="https://leetcode.com/problems/number-of-islands/?envType=study-plan-v2&envId=leetcode-75/">#200 Number of Islands</a></li>
+    <li>10  <a href="https://leetcode.com/problems/number-of-islands/?envType=study-plan-v2&envId=leetcode-75/">#200 Number of Islands</a>✓</li>
     <li>11  <a href="https://leetcode.com/problems/invert-binary-tree/">#226 Invert Binary Tree</a></li>
     <li>12  <a href="https://leetcode.com/problems/sum-of-left-leaves/">#404 Sum of Left Leaves</a></li>
     <li>13  <a href="https://leetcode.com/problems/minimum-genetic-mutation/?envType=study-plan-v2&envId=leetcode-75/">#433 Minimum Genetic Mutation</a></li>
