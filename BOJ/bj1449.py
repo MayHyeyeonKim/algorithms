@@ -9,8 +9,8 @@ x = 0
 while x < 1001:
     if coord[x]:
         True
-        tape +=1
-        x+= L
+        tape += 1
+        x += L
     else:
-        x +=1
+        x += 1
 print(tape)
