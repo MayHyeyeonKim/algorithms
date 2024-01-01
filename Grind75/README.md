@@ -5,13 +5,13 @@ This repository contains my solutions to problems from the [Tech Interview Handb
 ## Table of Contents
 
 ### Week1
-- [Problem 1: Two Sum](./)
-- [Problem 2: Valid Parentheses](./)
-- [Problem 3: Merge Two Sorted Lists](./)
+- [Problem 1: Two Sum](./) - solved with java, python
+- [Problem 2: Valid Parentheses](./) - solved with java, python
+- [Problem 3: Merge Two Sorted Lists](./) - solved with java, python
 
 ### Week2
-- [Problem 1: Best Time to Buy and Sell Stock](./)
-- [Problem 2: Valid Palindrome](./)
+- [Problem 1: Best Time to Buy and Sell Stock](./) - solved 
+- [Problem 2: Valid Palindrome](./) - solved 
 - [Problem 3: Invert Binary Tree](./)
 
 ### Week3
