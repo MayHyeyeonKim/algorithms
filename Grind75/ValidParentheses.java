@@ -8,6 +8,7 @@ public class ValidParentheses {
         String s = "{}[]()";
         System.out.println(solution.isValid(s));
     }
+    
     public boolean isValid(String s){
         Stack<Character> stack = new Stack<Character>();
 
