@@ -12,7 +12,7 @@ This repository contains my solutions to problems from the [Tech Interview Handb
 ### Week2
 - [Problem 1: Best Time to Buy and Sell Stock](./) - solved 
 - [Problem 2: Valid Palindrome](./) - solved 
-- [Problem 3: Invert Binary Tree](./)
+- [Problem 3: Invert Binary Tree](./) - solved
 
 ### Week3
 - [Problem 1: Valid Anagram](./)
