@@ -15,13 +15,13 @@ This repository contains my solutions to problems from the [Tech Interview Handb
 - [Problem 3: Invert Binary Tree](./) - solved
 
 ### Week3
-- [Problem 1: Valid Anagram](./)
-- [Problem 2: Binary Search](./)
-- [Problem 3: Flood Fill](./)
+- [Problem 1: Valid Anagram](./) - solved 
+- [Problem 2: Binary Search](./) - solved 
+- [Problem 3: Flood Fill](./) - solved 
 
 ### Week4
-- [Problem 1: Lowest Common Ancestor of a Binary Search Tree](./)
-- [Problem 2: Balanced Binary Tree](./)
+- [Problem 1: Lowest Common Ancestor of a Binary Search Tree](./) - solved 
+- [Problem 2: Balanced Binary Tree](./) - solved 
 - [Problem 3: Linked List Cycle](./)
 
 ### Week5
