@@ -22,7 +22,7 @@ This repository contains my solutions to problems from the [Tech Interview Handb
 ### Week4
 - [Problem 1: Lowest Common Ancestor of a Binary Search Tree](./) - solved 
 - [Problem 2: Balanced Binary Tree](./) - solved 
-- [Problem 3: Linked List Cycle](./)
+- [Problem 3: Linked List Cycle](./) - solved
 
 ### Week5
 - [Problem 1: Implement Queue using Stacks](./)
