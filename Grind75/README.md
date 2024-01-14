@@ -25,9 +25,9 @@ This repository contains my solutions to problems from the [Tech Interview Handb
 - [Problem 3: Linked List Cycle](./) - solved
 
 ### Week5
-- [Problem 1: Implement Queue using Stacks](./)
-- [Problem 2: First Bad Version](./)
-- [Problem 3: Ransom Note](./)
+- [Problem 1: Implement Queue using Stacks](./) - solved
+- [Problem 2: First Bad Version](./) - solved
+- [Problem 3: Ransom Note](./) - solved
 
 ### Week6
 - [Problem 1: Maximum Subarray](./)
