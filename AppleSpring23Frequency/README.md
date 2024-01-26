@@ -23,7 +23,7 @@
 
 | **Problem**               | **Difficulty** | **Solved** |
 | ------------------------- | -------------- | ---------- |
-| Combination Sum           | Medium         |            |
+| Combination Sum           | Medium         | O          |
 | Integer to English Words  | Hard           |            |
 | Minimize Maximum of Array | Medium         |            |
 | Longest Common Prefix     | Easy           |            |
