@@ -34,7 +34,7 @@ This repository contains my solutions to problems from the [Tech Interview Handb
 - [Problem 2: Insert Interval](./) - solved with java, python
 
 ### Week7
-- [Problem 1: 01 Matrix](./)
+- [Problem 1: 01 Matrix](./) - solved with python
 - [Problem 2: K Closest Points to Origin](./)
 
 ### Week8
