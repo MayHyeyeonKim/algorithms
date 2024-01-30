@@ -1,4 +1,4 @@
-package Grind75;
+package Grind75.java;
 
 public class BinarySearch {
     public static void main(String[] args) {

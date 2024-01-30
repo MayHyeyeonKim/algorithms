@@ -1,4 +1,4 @@
-package Grind75;
+package Grind75.java;
 
 public class ValidPalindrome {
     public static void main(String[] args) {

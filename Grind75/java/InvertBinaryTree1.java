@@ -1,6 +1,6 @@
 //need to fix it little bit
 
-package Grind75;
+package Grind75.java;
 
 public class InvertBinaryTree1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Grind75;
+package Grind75.java;
 
 public class MaximumSubarray {
     public int maxSubArray(int[] nums) {

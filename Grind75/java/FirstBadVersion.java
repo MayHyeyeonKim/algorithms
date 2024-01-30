@@ -1,4 +1,4 @@
-package Grind75;
+package Grind75.java;
 
 public class FirstBadVersion {
     public class VersionControl {

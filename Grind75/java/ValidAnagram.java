@@ -1,4 +1,4 @@
-package Grind75;
+package Grind75.java;
 
 import java.util.Arrays;
 

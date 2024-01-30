@@ -1,6 +1,6 @@
-package Grind75;
+package Grind75.java;
 
-import Grind75.MergeTwoSortedLists.ListNode;
+import Grind75.java.MergeTwoSortedLists.ListNode;
 
 public class LinkedListCycle {
    public boolean hasCycle(ListNode head) {
