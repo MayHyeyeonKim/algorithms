@@ -1,4 +1,4 @@
-# Challenge to Solve One Problem per Day Starting from January 29th (12weeks)
+# Challenge to Solve 1Probl/Day Starting from Jan 29th (12weeks)
 
 ### 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 ### 2. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
