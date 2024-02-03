@@ -1,10 +1,15 @@
 # Challenge to Solve 1Probl/Day Starting from Jan 29th (12weeks)
 
 ### 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+-20240130 solved
 ### 2. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+-20240131 solved
 ### 3. [Two Sum](https://leetcode.com/problems/two-sum/)
+-20240201 solved
 ### 4. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+-20240202 solved
 ### 5. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+-20240203 
 ### 6. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 ### 7. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 ### 8. [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
