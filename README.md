@@ -15,6 +15,7 @@
 ### 7. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 -20240206 solved
 ### 8. [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+-20240207 solved
 ### 9. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 ### 10. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 ### 11. [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
