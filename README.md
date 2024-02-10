@@ -17,7 +17,9 @@
 ### 8. [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
 -20240207 solved
 ### 9. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+-20240208 solved
 ### 10. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+-20240209 solved
 ### 11. [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 ### 12. [3Sum](https://leetcode.com/problems/3sum/)
 ### 13. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)

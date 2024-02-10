@@ -1,5 +1,5 @@
 def twosum(nums, target):
-    nums.sort
+    nums.sort()
     n = len(nums)
     l,r = 0, n-1
     while l<r:
