@@ -2,9 +2,9 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
         left, right = 0, len(s)-1
         while left < right:
-            while left < right and not self.alphaNum(s[left]):
+            while not self.alphaNum(s[left]):
                 left += 1
-            while right > left and not self.alphaNum(s[right]):
+            while not self.alphaNum(s[right]):
                 right -= 1
             if s[left].lower() != s[right].lower():
                 return False
@@ -19,3 +19,7 @@ s = "A man, a plan, a canal: Panama"
 soultion = Solution()
 result = soultion.isPalindrome(s)
 print(result)
+
+
+# 4번줄에서는 while left < right: <- 루프를 돌기위해 left포인터와 right포인터가 만나기 전까지만 반복을 수행하고
+# 5번과 7번줄에서는 left < right조건은  
