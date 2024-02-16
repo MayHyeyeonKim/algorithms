@@ -11,6 +11,6 @@ class Solution:
         return maxPrice
 
 solution = Solution()
-# prices = [7,1,5,3,6,4]
-prices = [2,3,7,5,6,2,9]
+prices = [7,1,5,3,6,4]
+# prices = [2,3,7,5,6,2,9]
 print(solution.maxProfit(prices))
