@@ -51,3 +51,7 @@ solution = Solution()
 # Find the lowest common ancestor of nodes with values 5 and 1
 ancestor = solution.lowestCommonAncestor(root, root.left, root.right)
 print("Lowest Common Ancestor:", ancestor.val)
+
+
+# 시간복잡도 : O(n + h^2)
+# 공간복잡도 : O(h)

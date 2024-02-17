@@ -14,7 +14,8 @@ class Solution:
         right = self.lowestCommonAncestor(root.right, p, q)
         if left and right:
             return root
-        return left or right
+        else: 
+            return left or right
 
 # Example usage:
 # Construct a binary tree:
@@ -37,7 +38,11 @@ root.left.right.right = TreeNode(4)
 
 # Let's find the LCA of nodes 5 and 1
 p = root.left  # Node with value 5
-q = root.right  # Node with value 1
+q = root.right.right  # Node with value 8
 solution = Solution()
 lca = solution.lowestCommonAncestor(root, p, q)
 print(f"The LCA of node {p.val} and node {q.val} is node {lca.val}.")
+
+
+# 시간복잡도 : O(n)
+# 공간복잡도 : O(n)
