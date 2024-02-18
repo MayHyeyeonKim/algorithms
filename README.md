@@ -29,6 +29,7 @@
 ### 14. [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 -20240215 solved
 ### 15. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+-20240216 solved
 ### 16. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 ### 17. [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
 ### 18. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
