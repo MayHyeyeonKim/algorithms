@@ -32,6 +32,7 @@
 -20240216 solved
 ### 16. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 ### 17. [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
+-20240220 solved
 ### 18. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 ### 19. [Min Stack](https://leetcode.com/problems/min-stack/)
 ### 20. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
