@@ -36,6 +36,7 @@
 ### 18. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 -20240221 solved
 ### 19. [Min Stack](https://leetcode.com/problems/min-stack/)
+-20240222 solved
 ### 20. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 ### 21. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 ### 22. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
