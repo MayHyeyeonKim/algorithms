@@ -38,6 +38,7 @@
 ### 19. [Min Stack](https://leetcode.com/problems/min-stack/)
 -20240222 solved
 ### 20. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+-20240223 solved
 ### 21. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 ### 22. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 ### 23. [Car Fleet](https://leetcode.com/problems/car-fleet/)
