@@ -30,11 +30,11 @@ This repository contains my solutions to problems from the [Tech Interview Handb
 - [Problem 3: Ransom Note](./) - solved
 
 ### Week6
-- [Problem 1: Maximum Subarray](./)
-- [Problem 2: Insert Interval](./)
+- [Problem 1: Maximum Subarray](./) - solved
+- [Problem 2: Insert Interval](./) - solved
 
 ### Week7
-- [Problem 1: 01 Matrix](./)
+- [Problem 1: 01 Matrix](./) - solved
 - [Problem 2: K Closest Points to Origin](./)
 
 ### Week8
