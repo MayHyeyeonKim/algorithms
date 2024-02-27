@@ -40,6 +40,7 @@
 ### 20. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 -20240223 solved
 ### 21. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+-20240226 solved
 ### 22. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 ### 23. [Car Fleet](https://leetcode.com/problems/car-fleet/)
 ### 24. [Binary Search](https://leetcode.com/problems/binary-search/)
