@@ -35,7 +35,7 @@ This repository contains my solutions to problems from the [Tech Interview Handb
 
 ### Week7
 - [Problem 1: 01 Matrix](./) - solved
-- [Problem 2: K Closest Points to Origin](./)
+- [Problem 2: K Closest Points to Origin](./) - solved
 
 ### Week8
 - [Problem 1: Longest Substring Without Repeating Characters](./)  - solved
