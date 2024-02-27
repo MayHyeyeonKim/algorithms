@@ -1,7 +1,7 @@
 # Challenge to Solve 1Probl/Day Starting from Jan 29th (12weeks)
 
-### 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
--20240130 solved
+- 1.[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - 20240130 solved
+
 ### 2. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 -20240131 solved
 ### 3. [Two Sum](https://leetcode.com/problems/two-sum/)
