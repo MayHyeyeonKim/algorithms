@@ -1,4 +1,4 @@
-# Tech Interview Handbook Grind75 Solutions
+# Tech Interview Handbook Grind75 Solutions - COMPLETED it from January 2nd to February 27th! 😵‍💫
 
 This repository contains my solutions to problems from the [Tech Interview Handbook Grind75](https://www.techinterviewhandbook.org/grind75?hours=2&difficulty=Easy&difficulty=Medium). I'm using this as a practice ground to improve my problem-solving skills using Java, Python, and PHP.
 
@@ -40,5 +40,5 @@ This repository contains my solutions to problems from the [Tech Interview Handb
 ### Week8
 - [Problem 1: Longest Substring Without Repeating Characters](./)  - solved
 - [Problem 2: 3Sum](./) - solved
-- [Problem 3: Binary Tree Level Order Traversal](./)
+- [Problem 3: Binary Tree Level Order Traversal](./) - solved
 - [Problem 4: Clone Graph](./) - solved
