@@ -19,9 +19,9 @@
 19. [Min Stack](https://leetcode.com/problems/min-stack/) - 20240222 solved
 20. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - 20240223 solved
 21. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) - 20240226 solved
-22. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
-23. [Car Fleet](https://leetcode.com/problems/car-fleet/)
-24. [Binary Search](https://leetcode.com/problems/binary-search/)
+22. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) - 20240229 solved
+23. [Car Fleet](https://leetcode.com/problems/car-fleet/) - 20240229 solved
+24. [Binary Search](https://leetcode.com/problems/binary-search/) - 20240229 solved
 25. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 26. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 27. [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
