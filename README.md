@@ -23,7 +23,7 @@
 23. [Car Fleet](https://leetcode.com/problems/car-fleet/) - 20240229 solved
 24. [Binary Search](https://leetcode.com/problems/binary-search/) - 20240229 solved
 25. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-26. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+26. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) - 20240304 solved
 27. [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 28. [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 29. [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/)
