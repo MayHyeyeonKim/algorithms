@@ -7,14 +7,14 @@ class Solution:
             if nums[mid] == target:
                 return mid
             
-            if nums[left] <= nums[mid]:
-                if nums[left] <= target < nums[mid]: #[0,1,2,3,4] 1
+            if nums[left] <= nums[mid]: #[0,1,2,3,4] 1
+                if nums[left] <= target < nums[mid]: 
                     right = mid -1
                 else:
                     left = mid + 1
                 
-            else:
-                if nums[mid] < target <= nums[right]: #[5,1,3] 3
+            else: #[5,1,3] 3
+                if nums[mid] < target <= nums[right]: 
                     right = mid -1
                 else:
                     left = mid + 1
