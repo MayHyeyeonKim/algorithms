@@ -27,7 +27,7 @@
 27. [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - 20240305 solved
 28. [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - 20240306 solved
 29. [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/) - 20240307 solved
-30. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+30. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - 20240308 solved
 31. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 32. [Reorder List](https://leetcode.com/problems/reorder-list/)
 33. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
