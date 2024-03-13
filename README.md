@@ -29,8 +29,8 @@
 29. [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/) - 20240307 solved
 30. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - 20240308 solved
 31. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - 20240311 solved
-32. [Reorder List](https://leetcode.com/problems/reorder-list/)- 20240311 solved
-33. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+32. [Reorder List](https://leetcode.com/problems/reorder-list/) - 20240311 solved
+33. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - 20240312 solved
 34. [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 35. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
