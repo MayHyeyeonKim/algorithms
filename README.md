@@ -33,7 +33,7 @@
 33. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - 20240312 solved
 34. [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  - 20240314 solved
 35. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - 20240315 solved
-36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - 20240317 solved
 37. [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 38. [LRU Cache](https://leetcode.com/problems/lru-cache/)
 39. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
