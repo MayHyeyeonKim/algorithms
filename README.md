@@ -35,7 +35,7 @@
 35. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - 20240315 solved
 36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - 20240317 solved
 37. [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) - 20240317 solved
-38. [LRU Cache](https://leetcode.com/problems/lru-cache/)
+38. [LRU Cache](https://leetcode.com/problems/lru-cache/) - 20240320 solved
 39. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 40. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 41. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
