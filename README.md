@@ -49,6 +49,7 @@
 49. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 50. [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 51. [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+____________________________________________________________________________________________________________
 52. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
 53. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 54. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
