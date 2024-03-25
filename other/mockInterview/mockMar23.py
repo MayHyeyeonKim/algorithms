@@ -31,7 +31,7 @@ sorted(s) != sorted(t)
 
 return False
 
-time complexity: O(nlogn + mlogm) O(nlogn)
+time complexity: O(nlogn + mlogm) 
 space complexity: O(n+m)
 
 [approach2]
