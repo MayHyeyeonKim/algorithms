@@ -38,8 +38,8 @@
 38. [LRU Cache](https://leetcode.com/problems/lru-cache/) - 20240320 solved
 39. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - 20240321 solved
 40. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - 20240322 solved
-41. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
-42. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+41. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) - 20240325 solved
+42. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) 
 43. [Same Tree](https://leetcode.com/problems/same-tree/)
 44. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 45. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
