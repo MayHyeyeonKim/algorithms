@@ -40,7 +40,7 @@
 40. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - 20240322 solved
 41. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) - 20240325 solved
 42. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) - 20240325 solved
-43. [Same Tree](https://leetcode.com/problems/same-tree/)
+43. [Same Tree](https://leetcode.com/problems/same-tree/) - 20240326 solved
 44. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 45. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 46. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
