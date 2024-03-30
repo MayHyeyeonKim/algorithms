@@ -36,6 +36,7 @@
 36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - 20240317 solved
 37. [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) - 20240317 solved
 38. [LRU Cache](https://leetcode.com/problems/lru-cache/) - 20240320 solved
+
 39. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - 20240321 solved
 40. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - 20240322 solved
 41. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) - 20240325 solved
@@ -43,6 +44,7 @@
 43. [Same Tree](https://leetcode.com/problems/same-tree/) - 20240326 solved
 44. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) - 20240327 solved
 45. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  - 20240329 solved
+
 46. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 47. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 48. [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
