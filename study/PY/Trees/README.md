@@ -1,30 +1,30 @@
 39. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) 🆗
-- [Invert Binary Tree - BFS](study/PY/Trees/BFS_InverBinaryTree.py) ✔️
-- [Invert Binary Tree - DFS](study/PY/Trees/DFS_InverBinaryTree.py) ✔️
+- [Invert Binary Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_InverBinaryTree.py) ✔️
+- [Invert Binary Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_InverBinaryTree.py) ✔️
 
 
 40. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) 🆗
-- [Maximum Depth of Binary Tree - BFS](study/PY/Trees/BFS_MaximumDepthofBinaryTree.py) ✔️
-- [Maximum Depth of Binary Tree - DFS](study/PY/Trees/DFS_MaximumDepthofBinaryTree.py) ✔️
+- [Maximum Depth of Binary Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_MaximumDepthofBinaryTree.py) ✔️
+- [Maximum Depth of Binary Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_MaximumDepthofBinaryTree.py) ✔️
 
 
 41. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) 🆗
-- [Diameter of Binary Tree - BFS](study/PY/Trees/BFS_DiameterofBinaryTree.py) ✔️
-- [Diameter of Binary Tree - DFS](study/PY/Trees/DFS_DiameterofBinaryTree.py) ✔️
+- [Diameter of Binary Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_DiameterofBinaryTree.py) ✔️
+- [Diameter of Binary Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_DiameterofBinaryTree.py) ✔️
 
 
 42. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) 🆗
-- [Balanced Binary Tree - BFS](study/PY/Trees/BFS_BalancedBinaryTree.py) ✔️
-- [Balanced Binary Tree - DFS](study/PY/Trees/DFS_BalancedBinaryTree.py) ✔️
+- [Balanced Binary Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_BalancedBinaryTree.py) ✔️
+- [Balanced Binary Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_BalancedBinaryTree.py) ✔️
 
 
 43. [Same Tree](https://leetcode.com/problems/same-tree/) 🆗
-- [Same Tree - BFS](study/PY/Trees/BFS_SameTree.py) ✔️
-- [Same Tree - DFS](study/PY/Trees/DFS_SameTree.py) ✔️
+- [Same Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_SameTree.py) ✔️
+- [Same Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_SameTree.py) ✔️
 
 44. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-- [Subtree of Another Tree - BFS](study/PY/Trees/BFS_SubtreeofAnotherTree.py)
-- [Subtree of Another Tree - DFS](study/PY/Trees/DFS_SubtreeofAnotherTree.py)
+- [Subtree of Another Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_SubtreeofAnotherTree.py)
+- [Subtree of Another Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_SubtreeofAnotherTree.py)
 - [Subtree of Another Tree - Boyer-Moore](study/PY/Trees/Boyer-Moore_SubtreeofAnotherTree.py)
 - [Subtree of Another Tree - KMP](study/PY/Trees/KMP_SubtreeofAnotherTree.py)
 - [Subtree of Another Tree - Rabin-Karp](study/PY/Trees/Rabin-Karp_SubtreeofAnotherTree.py)
