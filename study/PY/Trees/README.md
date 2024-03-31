@@ -23,8 +23,8 @@
 - [Same Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_SameTree.py) ✔️
 
 44. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 🆗
-- [Subtree of Another Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_SubtreeofAnotherTree.py)
-- [Subtree of Another Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_SubtreeofAnotherTree.py)
+- [Subtree of Another Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_SubtreeofAnotherTree.py) ✔️
+- [Subtree of Another Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_SubtreeofAnotherTree.py) ✔️
 - [Subtree of Another Tree - Boyer-Moore](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/Boyer-Moore_SubtreeofAnotherTree.py)
 - [Subtree of Another Tree - KMP](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/KMP_SubtreeofAnotherTree.py)
 - [Subtree of Another Tree - Rabin-Karp](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/Rabin-Karp_SubtreeofAnotherTree.py)
