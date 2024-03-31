@@ -32,9 +32,9 @@
 
 
 
-45. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [Lowest Common Ancestor of a Binary Search Tree - BFS](study/PY/Trees/BFS_LowestCommonAncestorofaBinarySearchTree.py)
-- [Lowest Common Ancestor of a Binary Search Tree - DFS](study/PY/Trees/DFS_LowestCommonAncestorofaBinarySearchTree.py)
+45. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) 🆗
+- [Lowest Common Ancestor of a Binary Search Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_LowestCommonAncestorofaBinarySearchTree.py) ✔️
+- [Lowest Common Ancestor of a Binary Search Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_LowestCommonAncestorofaBinarySearchTree.py) ✔️
 
 
 46. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
