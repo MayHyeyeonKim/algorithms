@@ -42,9 +42,9 @@
 - [Binary Tree Level Order Traversal - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_BinaryTreeLevelOrderTraversal.py) ✔️
 
 
-47. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
-- [Binary Tree Right Side View - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_BinaryTreeRightSideView.py)
-- [Binary Tree Right Side View - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_BinaryTreeRightSideView.py)
+47. [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) 🆗
+- [Binary Tree Right Side View - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_BinaryTreeRightSideView.py) ✔️
+- [Binary Tree Right Side View - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_BinaryTreeRightSideView.py) ✔️
 
 
 48. [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
