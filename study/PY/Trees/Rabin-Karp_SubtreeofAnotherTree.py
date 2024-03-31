@@ -15,32 +15,24 @@ class Solution:
         main_tree = helper(root)
         sub_tree = helper(subRoot)
 
-        def boyer_moore(s, pattern):
+        def rabin_karp(s, pattern):
             n = len(s)
             m = len(pattern)
-            if m == 0:
-                return 0
 
-            last = {}
-            for i, char in enumerate(pattern):
-                last[char] = i
+            p_hash = hash(pattern)
+            s_hash = hash(s[:m])
 
-            i = m - 1
-            j = m - 1
-            while i < n:
-                if s[i] == pattern[j]:
-                    if j == 0:
-                        return True
-                    else:
-                        i -= 1
-                        j -= 1
-                else:
-                    if s[i] in last:
-                        i += m - min(j, 1 + last[s[i]]) #패턴 내에서 불일치가 발생했을 때, 패턴을 얼마나 건너뛰어야 하는지를 결정하는 부분
-                    else:
-                        i += m
-                    j = m - 1
+            for i in range(n - m + 1):
+                if p_hash == s_hash and s[i:i+m] == pattern:
+                    return True
+                if i < n - m:
+                    s_hash = hash(s[i+1:i+m+1])
+
             return False
+        r = helper(root)
+        s = helper(subRoot)
+
+        return rabin_karp(r, s)
             
         return boyer_moore(main_tree, sub_tree)
     
