@@ -37,28 +37,28 @@
 - [Lowest Common Ancestor of a Binary Search Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_LowestCommonAncestorofaBinarySearchTree.py) ✔️
 
 
-46. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [Binary Tree Level Order Traversal - BFS](study/PY/Trees/BFS_BinaryTreeLevelOrderTraversal.py)
-- [Binary Tree Level Order Traversal - DFS](study/PY/Trees/DFS_BinaryTreeLevelOrderTraversal.py)
+46. [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) 🆗
+- [Binary Tree Level Order Traversal - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_BinaryTreeLevelOrderTraversal.py) ✔️
+- [Binary Tree Level Order Traversal - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_BinaryTreeLevelOrderTraversal.py) ✔️
 
 
 47. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
-- [Binary Tree Right Side View - BFS](study/PY/Trees/BFS_BinaryTreeRightSideView.py)
-- [Binary Tree Right Side View - DFS](study/PY/Trees/DFS_BinaryTreeRightSideView.py)
+- [Binary Tree Right Side View - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_BinaryTreeRightSideView.py)
+- [Binary Tree Right Side View - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_BinaryTreeRightSideView.py)
 
 
 48. [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
-- [Count Good Nodes In Binary Tree - BFS](study/PY/Trees/BFS_CountGoodNodesInBinaryTree.py)
-- [Count Good Nodes In Binary Tree - DFS](study/PY/Trees/DFS_CountGoodNodesInBinaryTree.py)
+- [Count Good Nodes In Binary Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_CountGoodNodesInBinaryTree.py)
+- [Count Good Nodes In Binary Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_CountGoodNodesInBinaryTree.py)
 
 49. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- [Validate Binary Search Tree - BFS](study/PY/Trees/BFS_ValidateBinarySearchTree.py)
-- [Validate Binary Search Tree - DFS](study/PY/Trees/DFS_ValidateBinarySearchTree.py)
+- [Validate Binary Search Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_ValidateBinarySearchTree.py)
+- [Validate Binary Search Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_ValidateBinarySearchTree.py)
 
 50. [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [Kth Smallest Element In a Bst - BFS](study/PY/Trees/BFS_KthSmallestElementInaBst.py)
-- [Kth Smallest Element In a Bst - DFS](study/PY/Trees/DFS_KthSmallestElementInaBst.py)
+- [Kth Smallest Element In a Bst - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_KthSmallestElementInaBst.py)
+- [Kth Smallest Element In a Bst - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_KthSmallestElementInaBst.py)
 
 51. [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [Construct Binary Tree From Preorder And Inorder Traversal - BFS](study/PY/Trees/BFS_ConstructBinaryTreeFromPreorderAndInorderTraversal.py)
-- [Construct Binary Tree From Preorder And Inorder Traversal - DFS](study/PY/Trees/DFS_ConstructBinaryTreeFromPreorderAndInorderTraversal.py)
+- [Construct Binary Tree From Preorder And Inorder Traversal - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_ConstructBinaryTreeFromPreorderAndInorderTraversal.py)
+- [Construct Binary Tree From Preorder And Inorder Traversal - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_ConstructBinaryTreeFromPreorderAndInorderTraversal.py)
