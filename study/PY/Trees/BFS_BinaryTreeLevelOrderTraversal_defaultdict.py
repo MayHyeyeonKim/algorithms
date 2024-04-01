@@ -9,17 +9,25 @@ class TreeNode:
 class Solution:
     def levelOrder(self, root):
         dic = defaultdict(list)
-        dq = deque([[root, 0]]) if root else None
-        while dq:
-            node, h = dq.popleft()
-            dic[h].append(node.val)
-            if node.left:
-                dq.append([node.left, h + 1])
-            if node.right:
-                dq.append([node.right, h + 1])
-        # res = [[] for i in range(len(dic))]
-        # for k, v in dic.items():
-        #     res[k] = v
+        # dq = deque([[root, 0]]) if root else None
+        # while dq:
+        #     node, h = dq.popleft()
+        #     dic[h].append(node.val)
+        #     if node.left:
+        #         dq.append([node.left, h + 1])
+        #     if node.right:
+        #         dq.append([node.right, h + 1])
+        # # res = [[] for i in range(len(dic))]
+        # # for k, v in dic.items():
+        # #     res[k] = v
+        
+        def dfs(node, level):
+            if not node: 
+                return
+            dic[level].append(node.val)
+            dfs(node.left, level+1)
+            dfs(node.right, level+1)
+        dfs(root,0)
         return list(dic.values())
 
 root = TreeNode(3)
