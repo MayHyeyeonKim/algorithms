@@ -39,7 +39,9 @@
 
 46. [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) 🆗
 - [Binary Tree Level Order Traversal - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_BinaryTreeLevelOrderTraversal.py) ✔️
+- [Binary Tree Level Order Traversal - BFS defaultdict](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_BinaryTreeLevelOrderTraversal_defaultdict.py) ✔️
 - [Binary Tree Level Order Traversal - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_BinaryTreeLevelOrderTraversal.py) ✔️
+
 
 
 47. [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) 🆗
