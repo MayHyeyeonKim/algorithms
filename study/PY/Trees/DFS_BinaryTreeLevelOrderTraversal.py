@@ -22,6 +22,20 @@ class Solution:
 
         level(root, 0)
         return result
+    
+        # res = {}
+
+        # def traverse(node, level):
+        #     if not node: 
+        #         return
+        #     if level not in res: 
+        #         res[level] = []
+        #     res[level].append(node.val)
+        #     traverse(node.left, level+1)
+        #     traverse(node.right, level+1)
+        
+        # traverse(root, 0)
+        # return res.values()
 
 root = TreeNode(3)
 root.left = TreeNode(9)

@@ -7,20 +7,33 @@ class TreeNode:
 
 class Solution:
     def rightSideView(self, root):
-        q = deque([root])
         res = []
-        while q:
-            rightNode = None
-            lenq = len(q)
-            for i in range(lenq):
-                cur = q.popleft()
-                if cur:
-                    rightNode = cur
-                    q.append(rightNode.left)
-                    q.append(rightNode.right)
-            if rightNode:
-                res.append(rightNode.val)
+        if root:
+            que = deque([(root,1)])
+            while que:
+                node, depth = que.popleft()
+                if depth > len(res):
+                    res.append([0])
+                res[depth-1] = node.val
+                if node.left:
+                    que.append((node.left,depth+1))
+                if node.right:
+                    que.append((node.right,depth+1))
         return res
+        # q = deque([root])
+        # res = []
+        # while q:
+        #     rightNode = None
+        #     lenq = len(q)
+        #     for i in range(lenq):
+        #         cur = q.popleft()
+        #         if cur:
+        #             rightNode = cur
+        #             q.append(rightNode.left)
+        #             q.append(rightNode.right)
+        #     if rightNode:
+        #         res.append(rightNode.val)
+        # return res
 
 root = TreeNode(1)
 root.left = TreeNode(2)
