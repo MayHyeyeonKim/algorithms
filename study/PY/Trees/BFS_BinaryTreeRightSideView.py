@@ -9,7 +9,9 @@ class Solution:
     def rightSideView(self, root):
         res = []
         if root:
-            que = deque([(root,1)])
+            que = deque(root)
+            # que = deque()
+            # que.append([root,1])
             while que:
                 node, depth = que.popleft()
                 if depth > len(res):
