@@ -53,9 +53,9 @@
 - [Count Good Nodes In Binary Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_CountGoodNodesInBinaryTree.py) ✔️
 - [Count Good Nodes In Binary Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_CountGoodNodesInBinaryTree.py) ✔️
 
-49. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- [Validate Binary Search Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_ValidateBinarySearchTree.py)
-- [Validate Binary Search Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_ValidateBinarySearchTree.py)
+49. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 🆗
+- [Validate Binary Search Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_ValidateBinarySearchTree.py) ✔️
+- [Validate Binary Search Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_ValidateBinarySearchTree.py) ✔️
 
 50. [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [Kth Smallest Element In a Bst - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_KthSmallestElementInaBst.py)
