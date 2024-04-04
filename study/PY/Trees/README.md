@@ -49,9 +49,9 @@
 - [Binary Tree Right Side View - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_BinaryTreeRightSideView.py) ✔️
 
 
-48. [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
-- [Count Good Nodes In Binary Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_CountGoodNodesInBinaryTree.py)
-- [Count Good Nodes In Binary Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_CountGoodNodesInBinaryTree.py)
+48. [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) 🆗
+- [Count Good Nodes In Binary Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_CountGoodNodesInBinaryTree.py) ✔️
+- [Count Good Nodes In Binary Tree - DFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/DFS_CountGoodNodesInBinaryTree.py) ✔️
 
 49. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [Validate Binary Search Tree - BFS](https://github.com/MayHyeyeonKim/algorithms/blob/main/study/PY/Trees/BFS_ValidateBinarySearchTree.py)
