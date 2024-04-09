@@ -1,9 +1,8 @@
 # string = "hellohelloworldabc"
 # pattern = "helloworld"
 
-string = "aebcdefg" #7
-pattern = "efg" #3 #index=4:
-
+string = "aebcdefg"
+pattern = "efg" 
 # [Approach 1 - Using in Operator]
 # if pattern in string:
 #     index = string.index(pattern)
