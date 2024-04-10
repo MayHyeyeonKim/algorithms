@@ -50,7 +50,7 @@
 48. [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) - 20240403 solved
 49. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)- 20240404 solved
 50. [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - 20240408 solved
-51. [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+51. [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - 20240409 solved
 ____________________________________________________________________________________________________________
 52. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
 53. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
