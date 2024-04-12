@@ -1,4 +1,4 @@
-# 2024 Q1 
+# 2024 Q1 - neetCode150 Started on January 31.
 
 ## Arrays & Hashing
 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - 20240130 solved
@@ -65,7 +65,7 @@
 50. [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - 20240408 solved
 51. [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - 20240409 solved
 
-# 2024 Q2
+# 2024 Q2  - neetCode150 Started on April 16.
 
 ## Heap / Priority Queue Problems
 
