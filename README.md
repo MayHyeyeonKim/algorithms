@@ -71,7 +71,7 @@
 
 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - Easy -20240415
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - Easy -20240416
-- [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - Medium
+- [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - Medium - 20240417
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - Medium
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - Medium
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) - Medium
