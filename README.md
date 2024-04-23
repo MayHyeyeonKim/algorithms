@@ -74,7 +74,7 @@
 - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - Medium - 20240417
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - Medium - 20240418
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - Medium - 20240419
-- [Design Twitter](https://leetcode.com/problems/design-twitter/) - Medium 
+- [Design Twitter](https://leetcode.com/problems/design-twitter/) - Medium - 20240422
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - Hard
 
 ## Backtracking Problems
