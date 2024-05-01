@@ -25,7 +25,7 @@
 ## Tries Problems
 
 - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - Medium - 20240429
-- [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) - Medium
+- [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) - Medium- 20240430
 - [Word Search II](https://leetcode.com/problems/word-search-ii/) - Hard
 
 ## Graphs Problems
