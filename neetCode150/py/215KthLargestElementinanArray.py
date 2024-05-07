@@ -37,3 +37,6 @@ k = 2
 
 sol = Solution()
 print(sol.findKthLargest(nums,k))
+
+#  heapq.heappush, heapq.heappop, heapq.heappushpop 모두 내부적으로 heapify 연산이 수행
+#  보통 힙(heap)에서 루트 노드는 인덱스 0번
