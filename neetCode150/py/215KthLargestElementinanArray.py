@@ -27,9 +27,12 @@ class Solution:
                 heapq.heappush(heap, num)
             else:
                 if heap[0] < num:
-                    heapq.heappop(heap) #힙의 루트 요소를 제거(민힙)
+                    heapq.heappop(heap)
+                    print(f"heappop으로 루트에 있는 요소 제거하면 heap에 {heap}가 남음")
                     heapq.heappush(heap,num)
-                    #heapq.heappushpop(heap, num)
+                    print(f"heapush으로 {num}을 push하면 heap에 {heap}가 있음")
+                    # heapq.heappushpop(heap, num)
+                    # print(heap)
         return heap[0]
 
 nums = [3,2,1,5,6,4]
