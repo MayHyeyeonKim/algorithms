@@ -27,11 +27,11 @@ class Solution:
                 heapq.heappush(heap, num)
             else:
                 if heap[0] < num:
-                    heapq.heappop(heap)
+                    heapq.heappop(heap) #민힙으로 루트를 제거, 즉 제일 작은 값인 인덱스0번에 위치한 요소를 제거
                     print(f"heappop으로 루트에 있는 요소 제거하면 heap에 {heap}가 남음")
                     heapq.heappush(heap,num)
                     print(f"heapush으로 {num}을 push하면 heap에 {heap}가 있음")
-                    # heapq.heappushpop(heap, num)
+                    # heapq.heappushpop(heap, num) #두 번의 작업을 한 번의 작업으로 처리하여 더 빠르게 실행될 가능성이 있으니 효율적
                     # print(heap)
         return heap[0]
 
