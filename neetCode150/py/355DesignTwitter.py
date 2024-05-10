@@ -1,6 +1,6 @@
 # 355. Design Twitter
-
 from collections import defaultdict
+import heapq
 
 
 class Twitter:
@@ -10,11 +10,11 @@ class Twitter:
         self.tweetMap = defaultdict(list)
         self.followMap = defaultdict(set)
 
-    def postTweet(self, userId: int, tweetId: int) -> None:
+    def postTweet(self, userId: int, tweetId: int):
         self.tweetMap[userId].append([self.count, tweetId])
         self.count -= 1
 
-    def getNewsFeed(self, userId: int) -> List[int]:
+    def getNewsFeed(self, userId):
         res = []
         minHeap = []
 
@@ -33,12 +33,33 @@ class Twitter:
                 heapq.heappush(minHeap, [count, tweetId, followeeId, index-1])
         return res
 
-    def follow(self, followerId: int, followeeId: int) -> None:
+    def follow(self, followerId, followeeId):
         self.followMap[followerId].add(followeeId)
 
-    def unfollow(self, followerId: int, followeeId: int) -> None:
+    def unfollow(self, followerId, followeeId):
         if followeeId in self.followMap[followerId]:
             self.followMap[followerId].remove(followeeId)
+
+
+
+twitter = Twitter()
+
+twitter.postTweet(1, 101)
+twitter.postTweet(2, 102)
+twitter.postTweet(1, 103)
+twitter.postTweet(2, 104)
+
+twitter.follow(1, 2)
+
+news_feed = twitter.getNewsFeed(1)
+print("User 1's news feed:", news_feed)  # 예상 출력: [104, 103, 102, 101]
+
+twitter.unfollow(1, 2)
+
+news_feed = twitter.getNewsFeed(1)
+print("User 1's news feed after unfollowing:", news_feed)  # 예상 출력: [103, 101]
+
+
 
 
 # Your Twitter object will be instantiated and called as such:
