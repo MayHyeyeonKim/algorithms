@@ -16,8 +16,8 @@
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) - Medium - 20240424
 - [Permutations](https://leetcode.com/problems/permutations/) - Medium - 20240425
 - [Subsets II](https://leetcode.com/problems/subsets-ii/) - Medium - 20240426
-- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - Medium
-- [Word Search](https://leetcode.com/problems/word-search/) - Medium
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - Medium 20240515
+- [Word Search](https://leetcode.com/problems/word-search/) - Medium 20240516
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - Medium
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Medium
 - [N Queens](https://leetcode.com/problems/n-queens/) - Hard
