@@ -19,7 +19,7 @@
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - Medium 20240515
 - [Word Search](https://leetcode.com/problems/word-search/) - Medium 20240516
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - Medium 20240517
-- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Medium
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Medium 20240519
 - [N Queens](https://leetcode.com/problems/n-queens/) - Hard
 
 ## Tries Problems
