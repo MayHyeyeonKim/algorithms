@@ -19,8 +19,9 @@ class Solution:
         def dfs(node):
             if node in clones:
                 return clones[node]
-            clone = Node(node.val)
-            clones[node] = clone
+            else:
+                clone = Node(node.val)
+                clones[node] = clone
             for n in node.neighbors:
                 clone.neighbors.append(dfs(n))
             return clone
