@@ -35,7 +35,7 @@
 - [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) - Medium - 20240523
 - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - Medium - 20240524
 - [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) - Medium - 20240527
-- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - Medium
+- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - Medium - 20240528
 - [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - Medium
 - [Course Schedule](https://leetcode.com/problems/course-schedule/) - Medium
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - Medium
