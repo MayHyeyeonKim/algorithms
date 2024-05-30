@@ -36,7 +36,7 @@
 - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - Medium - 20240524
 - [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) - Medium - 20240527
 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - Medium - 20240528
-- [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - Medium
+- [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - Medium - 20240529
 - [Course Schedule](https://leetcode.com/problems/course-schedule/) - Medium
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - Medium
 - [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Medium
