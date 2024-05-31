@@ -83,28 +83,28 @@
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) - Medium - 20240424
 - [Permutations](https://leetcode.com/problems/permutations/) - Medium - 20240425
 - [Subsets II](https://leetcode.com/problems/subsets-ii/) - Medium - 20240426
-- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - Medium
-- [Word Search](https://leetcode.com/problems/word-search/) - Medium
-- [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - Medium
-- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Medium
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - Medium 20240515
+- [Word Search](https://leetcode.com/problems/word-search/) - Medium 20240516
+- [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - Medium 20240517
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Medium 20240519
 - [N Queens](https://leetcode.com/problems/n-queens/) - Hard
 
 ## Tries Problems
 
-- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - Medium
-- [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) - Medium
+- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - Medium - 20240429
+- [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) - Medium- 20240430
 - [Word Search II](https://leetcode.com/problems/word-search-ii/) - Hard
 
 ## Graphs Problems
 
-- [Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium
-- [Clone Graph](https://leetcode.com/problems/clone-graph/) - Medium
-- [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) - Medium
-- [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - Medium
-- [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) - Medium
-- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - Medium
-- [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - Medium
-- [Course Schedule](https://leetcode.com/problems/course-schedule/) - Medium
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium - 20240521
+- [Clone Graph](https://leetcode.com/problems/clone-graph/) - Medium - 20240522
+- [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) - Medium - 20240523
+- [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - Medium - 20240524
+- [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) - Medium - 20240527
+- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - Medium - 20240528
+- [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - Medium - 20240529
+- [Course Schedule](https://leetcode.com/problems/course-schedule/) - Medium - 20240530
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - Medium
 - [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Medium
 - [Redundant Connection](https://leetcode.com/problems/redundant-connection/) - Medium
