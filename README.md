@@ -40,7 +40,7 @@
 - [Course Schedule](https://leetcode.com/problems/course-schedule/) - Medium - 20240530
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - Medium - 20240531
 - [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Medium
-- [Redundant Connection](https://leetcode.com/problems/redundant-connection/) - Medium
+- [Redundant Connection](https://leetcode.com/problems/redundant-connection/) - Medium - 20240603
 - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) - Medium
 - [Word Ladder](https://leetcode.com/problems/word-ladder/) - Hard
 
