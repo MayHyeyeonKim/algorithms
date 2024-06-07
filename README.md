@@ -39,23 +39,14 @@
 - [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - Medium - 20240529
 - [Course Schedule](https://leetcode.com/problems/course-schedule/) - Medium - 20240530
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - Medium - 20240531
-- [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Medium
-- [Redundant Connection](https://leetcode.com/problems/redundant-connection/) - Medium - 20240603
-- [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) - Medium
+- [Redundant Connection](https://leetcode.com/problems/redundant-connection/) - Medium -20240603 (UnionFind)
+- [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Medium - 20240604 (UnionFind)
+- [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) - Medium - 20240605 (UnionFind)
 - [Word Ladder](https://leetcode.com/problems/word-ladder/) - Hard
-
-## Advanced Graphs Problems
-
-- [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) - Hard
-- [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) - Medium
-- [Network Delay Time](https://leetcode.com/problems/network-delay-time/) - Medium
-- [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) - Hard
-- [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) - Hard
-- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) - Medium
 
 ## 1-D Dynamic Programming Problems
 
-- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Easy
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Easy - 20240606
 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) - Easy
 - [House Robber](https://leetcode.com/problems/house-robber/) - Medium
 - [House Robber II](https://leetcode.com/problems/house-robber-ii/) - Medium
@@ -123,3 +114,11 @@
 - [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) - Medium
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer/) - Medium
 
+## Advanced Graphs Problems
+
+- [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) - Hard
+- [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) - Medium
+- [Network Delay Time](https://leetcode.com/problems/network-delay-time/) - Medium
+- [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) - Hard
+- [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) - Hard
+- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) - Medium
