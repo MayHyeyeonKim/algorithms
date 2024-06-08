@@ -114,7 +114,7 @@
 ## 1-D Dynamic Programming Problems
 
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Easy - 20240606
-- [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) - Easy
+- [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) - Easy - 20240607
 - [House Robber](https://leetcode.com/problems/house-robber/) - Medium
 - [House Robber II](https://leetcode.com/problems/house-robber-ii/) - Medium
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - Medium
