@@ -50,8 +50,8 @@
 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) - Easy - 20240607
 - [House Robber](https://leetcode.com/problems/house-robber/) - Medium - 20240610
 - [House Robber II](https://leetcode.com/problems/house-robber-ii/) - Medium - 20240611
-- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - Medium
-- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) - Medium
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - Medium - 20240612
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) - Medium - 20240613
 - [Decode Ways](https://leetcode.com/problems/decode-ways/) - Medium
 - [Coin Change](https://leetcode.com/problems/coin-change/) - Medium
 - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - Medium
