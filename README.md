@@ -52,7 +52,7 @@
 - [House Robber II](https://leetcode.com/problems/house-robber-ii/) - Medium - 20240611
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - Medium - 20240612
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) - Medium - 20240613
-- [Decode Ways](https://leetcode.com/problems/decode-ways/) - Medium
+- [Decode Ways](https://leetcode.com/problems/decode-ways/) - Medium - 20240614
 - [Coin Change](https://leetcode.com/problems/coin-change/) - Medium
 - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - Medium
 - [Word Break](https://leetcode.com/problems/word-break/) - Medium
