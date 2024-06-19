@@ -30,8 +30,8 @@ class Solution:
 
         return s[start:start + max_length]
 
-# 예시 사용
+
 sol = Solution()
-s = "aba"
+s = "aaa"
 result = sol.longestPalindrome(s)
 print(result)  # Output: "bab" 또는 "aba"
