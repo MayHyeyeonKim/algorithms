@@ -68,7 +68,7 @@
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - Medium - 20240701
 - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) - Medium - 20240702
 - [Coin Change II](https://leetcode.com/problems/coin-change-ii/) - Medium - 20240703
-- [Target Sum](https://leetcode.com/problems/target-sum/) - Medium
+- [Target Sum](https://leetcode.com/problems/target-sum/) - Medium - 20240705
 - [Interleaving String](https://leetcode.com/problems/interleaving-string/) - Medium
 - [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) - Hard
 - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) - Hard
