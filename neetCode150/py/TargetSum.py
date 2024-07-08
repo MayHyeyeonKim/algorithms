@@ -21,8 +21,10 @@
         
 #         return findTSW(0, 0)
 
+import collections
+
 class Solution:
-    def findTargetSumWays(self, nums: List[int], target: int) -> int:
+    def findTargetSumWays(self, nums, target):
         can = collections.defaultdict(int)
         can[0] = 1
 
