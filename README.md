@@ -44,7 +44,7 @@
 - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) - Medium - 20240605 (UnionFind)
 - [Word Ladder](https://leetcode.com/problems/word-ladder/) - Hard
 
-#### 1-D Dynamic Programming Problems
+## 1-D Dynamic Programming Problems
 
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Easy - 20240606
 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) - Easy - 20240607
@@ -59,7 +59,7 @@
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - Medium - 20240620
 - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) - Medium - 20240621
 
-#### 2-D Dynamic Programming Problems
+## 2-D Dynamic Programming Problems
 
 - [Unique Paths](https://leetcode.com/problems/unique-paths/) - Medium - 20240624
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - Medium - 20240701
