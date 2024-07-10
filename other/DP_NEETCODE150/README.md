@@ -1,24 +1,48 @@
-### 다이나믹 프로그래밍(Dynamic Programming)
+# 2024 Q2  - neetCode150 Started on April 16.
 
-#### 개요
-이 프로젝트는 다이나믹 프로그래밍(Dynamic Programming, DP)을 사용하여 복잡한 문제를 해결하는 데 목적이 있습니다. DP는 문제를 더 작은 하위 문제로 나누고, 하위 문제의 결과를 저장하여 반복 계산을 피함으로써 최적화 문제를 효율적으로 해결합니다.
+## Heap / Priority Queue Problems
 
-#### 다이나믹 프로그래밍(DP)
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - Easy -20240415
+- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - Easy -20240416
+- [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - Medium - 20240417
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - Medium - 20240418
+- [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - Medium - 20240419
+- [Design Twitter](https://leetcode.com/problems/design-twitter/) - Medium - 20240422
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - Hard
 
-- **정의**: DP는 복잡한 문제를 더 작은 하위 문제들로 나누고, 이 하위 문제들의 결과를 저장하여 동일한 하위 문제를 반복적으로 계산하지 않도록 하는 알고리즘 기법입니다.
-- **목적**: 주로 최적화 문제에서 사용되며, 중복된 계산을 줄여 효율성을 높이는 데 그 목적이 있습니다.
+## Backtracking Problems
 
-#### 문제 해결 방법
+- [Subsets](https://leetcode.com/problems/subsets/) - Medium - 20240423
+- [Combination Sum](https://leetcode.com/problems/combination-sum/) - Medium - 20240424
+- [Permutations](https://leetcode.com/problems/permutations/) - Medium - 20240425
+- [Subsets II](https://leetcode.com/problems/subsets-ii/) - Medium - 20240426
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - Medium 20240515
+- [Word Search](https://leetcode.com/problems/word-search/) - Medium 20240516
+- [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - Medium 20240517
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Medium 20240519
+- [N Queens](https://leetcode.com/problems/n-queens/) - Hard
 
-1. **DP 테이블 정의**: DP 테이블(배열 등)을 정의하고, 각 상태를 정의합니다. (Define a DP table (array, etc.) and the states (subproblems) that will be used.)
-2. **점화식 정의**: 상태 간의 관계를 정의하여 점화식을 만듭니다. (Define Recurrence Relation: F(n) = F(n-1) + F(n-2).)
+## Tries Problems
 
-#### 참고 자료
+- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - Medium - 20240429
+- [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) - Medium- 20240430
+- [Word Search II](https://leetcode.com/problems/word-search-ii/) - Hard
 
-- **개취**: [수많은 경우의 수가 많아서 수행시간 단축](https://www.youtube.com/watch?v=0bqfTzpWySY&t=125s)
-- **동빈나**: [DP는 하나의 문제를 단 한번만 풀기](https://www.youtube.com/watch?v=FmXZG7D8nS4)
-- **코드없는 프로그래밍**: [섭프로그램이 겹칠 때 메모이제이션, 피보나치, 처음 한번만 계산하고 저장](https://www.youtube.com/watch?v=eJC2oetXaNk)
+## Graphs Problems
 
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium - 20240521
+- [Clone Graph](https://leetcode.com/problems/clone-graph/) - Medium - 20240522
+- [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) - Medium - 20240523
+- [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - Medium - 20240524
+- [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) - Medium - 20240527
+- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - Medium - 20240528
+- [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - Medium - 20240529
+- [Course Schedule](https://leetcode.com/problems/course-schedule/) - Medium - 20240530
+- [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - Medium - 20240531
+- [Redundant Connection](https://leetcode.com/problems/redundant-connection/) - Medium -20240603 (UnionFind)
+- [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Medium - 20240604 (UnionFind)
+- [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) - Medium - 20240605 (UnionFind)
+- [Word Ladder](https://leetcode.com/problems/word-ladder/) - Hard
 
 #### 1-D Dynamic Programming Problems
 
@@ -31,20 +55,66 @@
 - [Decode Ways](https://leetcode.com/problems/decode-ways/) - Medium - 20240614
 - [Coin Change](https://leetcode.com/problems/coin-change/) - Medium - 20240617
 - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - Medium - 20240618
-- [Word Break](https://leetcode.com/problems/word-break/) - Medium
-- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - Medium
-- [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) - Medium
+- [Word Break](https://leetcode.com/problems/word-break/) - Medium - 20240619
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - Medium - 20240620
+- [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) - Medium - 20240621
 
 #### 2-D Dynamic Programming Problems
 
-- [Unique Paths](https://leetcode.com/problems/unique-paths/) - Medium
+- [Unique Paths](https://leetcode.com/problems/unique-paths/) - Medium - 20240624
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - Medium - 20240701
 - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) - Medium - 20240702
 - [Coin Change II](https://leetcode.com/problems/coin-change-ii/) - Medium - 20240703
 - [Target Sum](https://leetcode.com/problems/target-sum/) - Medium - 20240705
-- [Interleaving String](https://leetcode.com/problems/interleaving-string/) - Medium
-- [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) - Hard
-- [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) - Hard
-- [Edit Distance](https://leetcode.com/problems/edit-distance/) - Medium
-- [Burst Balloons](https://leetcode.com/problems/burst-balloons/) - Hard
-- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) - Hard
+- [Interleaving String](https://leetcode.com/problems/interleaving-string/) - Medium - 20240708
+- [Edit Distance](https://leetcode.com/problems/edit-distance/) - Medium - 20240709
+
+## Greedy Problems
+
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - Medium
+- [Jump Game](https://leetcode.com/problems/jump-game/) - Medium
+- [Jump Game II](https://leetcode.com/problems/jump-game-ii/) - Medium
+- [Gas Station](https://leetcode.com/problems/gas-station/) - Medium
+- [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) - Medium
+- [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) - Medium
+- [Partition Labels](https://leetcode.com/problems/partition-labels/) - Medium
+- [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) - Medium
+
+## Intervals Problems
+
+- [Insert Interval](https://leetcode.com/problems/insert-interval/) - Medium
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/) - Medium
+- [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) - Medium
+- [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) - Easy
+- [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) - Medium
+- [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) - Hard
+
+## Math & Geometry Problems
+
+- [Rotate Image](https://leetcode.com/problems/rotate-image/) - Medium
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - Medium
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - Medium
+- [Happy Number](https://leetcode.com/problems/happy-number/) - Easy
+- [Plus One](https://leetcode.com/problems/plus-one/) - Easy
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/) - Medium
+- [Multiply Strings](https://leetcode.com/problems/multiply-strings/) - Medium
+- [Detect Squares](https://leetcode.com/problems/detect-squares/) - Medium
+
+## Bit Manipulation Problems
+
+- [Single Number](https://leetcode.com/problems/single-number/) - Easy
+- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - Easy
+- [Counting Bits](https://leetcode.com/problems/counting-bits/) - Easy
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/) - Easy
+- [Missing Number](https://leetcode.com/problems/missing-number/) - Easy
+- [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) - Medium
+- [Reverse Integer](https://leetcode.com/problems/reverse-integer/) - Medium
+
+## Advanced Graphs Problems
+
+- [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) - Hard
+- [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) - Medium
+- [Network Delay Time](https://leetcode.com/problems/network-delay-time/) - Medium
+- [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) - Hard
+- [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) - Hard
+- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) - Medium
