@@ -71,7 +71,7 @@
 
 ## Greedy Problems
 
-- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - Medium
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - Medium - 20240710
 - [Jump Game](https://leetcode.com/problems/jump-game/) - Medium
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/) - Medium
 - [Gas Station](https://leetcode.com/problems/gas-station/) - Medium
