@@ -141,7 +141,7 @@
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - Medium - 20240710
 - [Jump Game](https://leetcode.com/problems/jump-game/) - Medium  - 20240711
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/) - Medium - 20240712
-- [Gas Station](https://leetcode.com/problems/gas-station/) - Medium
+- [Gas Station](https://leetcode.com/problems/gas-station/) - Medium - 20240716
 - [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) - Medium
 - [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) - Medium
 - [Partition Labels](https://leetcode.com/problems/partition-labels/) - Medium
