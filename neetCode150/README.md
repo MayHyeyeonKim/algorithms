@@ -1,4 +1,4 @@
-# 2024 Q1 - neetCode150 Started on January 31.
+# 2024 Q1 - neetCode150 Started on Jan 31 - Apr 9
 
 ## Arrays & Hashing
 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - 20240130 solved
@@ -65,76 +65,76 @@
 50. [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - 20240408 solved
 51. [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - 20240409 solved
 
-# 2024 Q2  - neetCode150 Started on April 16.
+# 2024 Q2  - neetCode150 Started on Apr 16 - July 23
 
 ## Heap / Priority Queue Problems
 
-52. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - Easy -20240415
-53. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - Easy -20240416
-54. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - Medium - 20240417
-55. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - Medium - 20240418
-56. [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - Medium - 20240419
-57. [Design Twitter](https://leetcode.com/problems/design-twitter/) - Medium - 20240422
-58. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - Hard
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - Easy -20240415
+- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - Easy -20240416
+- [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - Medium - 20240417
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - Medium - 20240418
+- [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - Medium - 20240419
+- [Design Twitter](https://leetcode.com/problems/design-twitter/) - Medium - 20240422
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - Hard
 
 ## Backtracking Problems
 
-59. [Subsets](https://leetcode.com/problems/subsets/) - Medium - 20240423
-60. [Combination Sum](https://leetcode.com/problems/combination-sum/) - Medium - 20240424
-61. [Permutations](https://leetcode.com/problems/permutations/) - Medium - 20240425
-62. [Subsets II](https://leetcode.com/problems/subsets-ii/) - Medium - 20240426
-63. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - Medium 20240515
-64. [Word Search](https://leetcode.com/problems/word-search/) - Medium 20240516
-65. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - Medium 20240517
-66. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Medium 20240519
-67. [N Queens](https://leetcode.com/problems/n-queens/) - Hard
+- [Subsets](https://leetcode.com/problems/subsets/) - Medium - 20240423
+- [Combination Sum](https://leetcode.com/problems/combination-sum/) - Medium - 20240424
+- [Permutations](https://leetcode.com/problems/permutations/) - Medium - 20240425
+- [Subsets II](https://leetcode.com/problems/subsets-ii/) - Medium - 20240426
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - Medium 20240515
+- [Word Search](https://leetcode.com/problems/word-search/) - Medium 20240516
+- [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - Medium 20240517
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Medium 20240519
+- [N Queens](https://leetcode.com/problems/n-queens/) - Hard
 
 ## Tries Problems
 
-68. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - Medium - 20240429
-69. [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) - Medium- 20240430
-70. [Word Search II](https://leetcode.com/problems/word-search-ii/) - Hard
+- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - Medium - 20240429
+- [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) - Medium- 20240430
+- [Word Search II](https://leetcode.com/problems/word-search-ii/) - Hard
 
 ## Graphs Problems
 
-71. [Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium - 20240521
-72. [Clone Graph](https://leetcode.com/problems/clone-graph/) - Medium - 20240522
-73. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) - Medium - 20240523
-74. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - Medium - 20240524
-75. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) - Medium - 20240527
-76. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - Medium - 20240528
-77. [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - Medium - 20240529
-78. [Course Schedule](https://leetcode.com/problems/course-schedule/) - Medium - 20240530
-79. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - Medium - 20240531
-80. [Redundant Connection](https://leetcode.com/problems/redundant-connection/) - Medium -20240603 (UnionFind)
-81. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Medium - 20240604 (UnionFind)
-82. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) - Medium - 20240605 (UnionFind)
-83. [Word Ladder](https://leetcode.com/problems/word-ladder/) - Hard
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium - 20240521
+- [Clone Graph](https://leetcode.com/problems/clone-graph/) - Medium - 20240522
+- [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) - Medium - 20240523
+- [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - Medium - 20240524
+- [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) - Medium - 20240527
+- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - Medium - 20240528
+- [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - Medium - 20240529
+- [Course Schedule](https://leetcode.com/problems/course-schedule/) - Medium - 20240530
+- [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - Medium - 20240531
+- [Redundant Connection](https://leetcode.com/problems/redundant-connection/) - Medium -20240603 (UnionFind)
+- [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Medium - 20240604 (UnionFind)
+- [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) - Medium - 20240605 (UnionFind)
+- [Word Ladder](https://leetcode.com/problems/word-ladder/) - Hard
 
 ## 1-D Dynamic Programming Problems
 
-84. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Easy - 20240606
-85. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) - Easy - 20240607
-86. [House Robber](https://leetcode.com/problems/house-robber/) - Medium - 20240610
-87. [House Robber II](https://leetcode.com/problems/house-robber-ii/) - Medium - 20240611
-88. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - Medium - 20240612
-89. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) - Medium - 20240613
-90. [Decode Ways](https://leetcode.com/problems/decode-ways/) - Medium - 20240614
-91. [Coin Change](https://leetcode.com/problems/coin-change/) - Medium - 20240617
-92. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - Medium - 20240618
-93. [Word Break](https://leetcode.com/problems/word-break/) - Medium - 20240619
-94. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - Medium - 20240620
-95. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) - Medium - 20240621
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Easy - 20240606
+- [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) - Easy - 20240607
+- [House Robber](https://leetcode.com/problems/house-robber/) - Medium - 20240610
+- [House Robber II](https://leetcode.com/problems/house-robber-ii/) - Medium - 20240611
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - Medium - 20240612
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) - Medium - 20240613
+- [Decode Ways](https://leetcode.com/problems/decode-ways/) - Medium - 20240614
+- [Coin Change](https://leetcode.com/problems/coin-change/) - Medium - 20240617
+- [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - Medium - 20240618
+- [Word Break](https://leetcode.com/problems/word-break/) - Medium - 20240619
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - Medium - 20240620
+- [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) - Medium - 20240621
 
 ## 2-D Dynamic Programming Problems
 
-96. [Unique Paths](https://leetcode.com/problems/unique-paths/) - Medium - 20240624
-97. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - Medium - 20240701
-98. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) - Medium - 20240702
-99. [Coin Change II](https://leetcode.com/problems/coin-change-ii/) - Medium - 20240703
-100. [Target Sum](https://leetcode.com/problems/target-sum/) - Medium - 20240705
-101. [Interleaving String](https://leetcode.com/problems/interleaving-string/) - Medium - 20240708
-102. [Edit Distance](https://leetcode.com/problems/edit-distance/) - Medium - 20240709
+- [Unique Paths](https://leetcode.com/problems/unique-paths/) - Medium - 20240624
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - Medium - 20240701
+- [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) - Medium - 20240702
+- [Coin Change II](https://leetcode.com/problems/coin-change-ii/) - Medium - 20240703
+- [Target Sum](https://leetcode.com/problems/target-sum/) - Medium - 20240705
+- [Interleaving String](https://leetcode.com/problems/interleaving-string/) - Medium - 20240708
+- [Edit Distance](https://leetcode.com/problems/edit-distance/) - Medium - 20240709
 
 ## Greedy Problems
 
