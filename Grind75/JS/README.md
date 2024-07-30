@@ -2,8 +2,8 @@
 ### I will complete one week of problems each day over a total of 8 days.
 ### [Tech Interview Handbook Grind75](https://www.techinterviewhandbook.org/grind75?hours=2&difficulty=Easy&difficulty=Medium)
 
-### Week1
-- [Problem 1: Two Sum](https://leetcode.com/problems/two-sum/) 
+### Week1 - solved with JS 0729
+- [Problem 1: Two Sum](https://leetcode.com/problems/two-sum/)
 - [Problem 2: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
 - [Problem 3: Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) 
 
