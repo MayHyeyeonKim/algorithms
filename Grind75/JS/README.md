@@ -12,7 +12,7 @@
 - [Problem 2: Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 
 - [Problem 3: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) 
 
-### Week3
+### Week3 - solved with JS 0731
 - [Problem 1: Valid Anagram](https://leetcode.com/problems/valid-anagram/) 
 - [Problem 2: Binary Search](https://leetcode.com/problems/binary-search/) 
 - [Problem 3: Flood Fill](https://leetcode.com/problems/flood-fill/) 
