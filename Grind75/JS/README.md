@@ -1,4 +1,4 @@
-# Grind23 with JavaScript 😵‍💫 - July 29 - Aug 5 (8days)
+# Grind75 
 ### I will complete one week of problems each day over a total of 8 days.
 ### [Tech Interview Handbook Grind75](https://www.techinterviewhandbook.org/grind75?hours=2&difficulty=Easy&difficulty=Medium)
 
