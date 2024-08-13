@@ -19,13 +19,13 @@
 
 ### Week4
 - [Problem 1: Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ✅
-- [Problem 2: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) 
+- [Problem 2: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) ✅
 - [Problem 3: Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ✅
 
 ### Week5
 - [Problem 1: Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ✅
-- [Problem 2: First Bad Version](https://leetcode.com/problems/first-bad-version/) 
-- [Problem 3: Ransom Note](https://leetcode.com/problems/ransom-note/) 
+- [Problem 2: First Bad Version](https://leetcode.com/problems/first-bad-version/) ✅
+- [Problem 3: Ransom Note](https://leetcode.com/problems/ransom-note/) ✅
 
 ### Week6
 - [Problem 1: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 

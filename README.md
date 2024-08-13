@@ -1,42 +1,45 @@
-# Grind23 with JavaScript 😵‍💫 - July 29 - Aug 5 (8days)
-### I will complete one week of problems each day over a total of 8 days.
-### [Tech Interview Handbook Grind75](https://www.techinterviewhandbook.org/grind75?hours=2&difficulty=Easy&difficulty=Medium)
+# Google Spring '23 High Frequency Interview Questions
 
-### Week1 - solved with JS 0729
-- [Problem 1: Two Sum](https://leetcode.com/problems/two-sum/) ✅
-- [Problem 2: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ✅
-- [Problem 3: Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ✅
+This repository contains a curated list of recent high-frequency interview questions to prepare for Google interviews. The questions are categorized based on difficulty levels: Easy, Medium, and Hard.
 
-### Week2 - solved with JS 0730
-- [Problem 1: Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ✅
-- [Problem 2: Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ✅
-- [Problem 3: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ✅
+## Interview Questions
 
-### Week3 - solved with JS 0731
-- [Problem 1: Valid Anagram](https://leetcode.com/problems/valid-anagram/) ✅
-- [Problem 2: Binary Search](https://leetcode.com/problems/binary-search/) ✅
-- [Problem 3: Flood Fill](https://leetcode.com/problems/flood-fill/) ✅
 
-### Week4
-- [Problem 1: Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ✅
-- [Problem 2: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) 
-- [Problem 3: Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ✅
+### April Interview Questions
+1. **[Finding the Number of Visible Mountains](#) (Medium)**
+2. **[Largest Color Value in a Directed Graph](#) (Hard)**
+3. **[Minimum Flips in Binary Tree to Get Result](#) (Hard)**
+4. **[Sum of Subarray Ranges](#) (Medium)**
+5. **[Closest Node to Path in Tree](#) (Hard)**
+6. **[Shortest Unsorted Continuous Subarray](#) (Medium)**
+7. **[Design Video Sharing Platform](#) (Hard)**
+8. **[Search in Rotated Sorted Array](#) (Medium)**
+9. **[Sort Array by Moving Items to Empty Space](#) (Hard)**
+10. **[Validate Stack Sequences](#) (Medium)**
+11. **[Check if There is a Path With Equal Number of 0's And 1's](#) (Medium)**
+12. **[Number of Enclaves](#) (Medium)**
+13. **[Number of Closed Islands](#) (Medium)**
+14. **[Minimize Maximum Value in a Grid](#) (Hard)**
 
-### Week5
-- [Problem 1: Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ✅
-- [Problem 2: First Bad Version](https://leetcode.com/problems/first-bad-version/) 
-- [Problem 3: Ransom Note](https://leetcode.com/problems/ransom-note/) 
+### March Interview Questions
+15. **[Roman to Integer](#) (Easy)**
+16. **[Median of Two Sorted Arrays](#) (Hard)**
+17. **[Decode String](#) (Medium)**
+18. **[Koko Eating Bananas](#) (Medium)**
 
-### Week6
-- [Problem 1: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 
-- [Problem 2: Insert Interval](https://leetcode.com/problems/insert-interval/) 
+### February Interview Questions
+19. **[Employee Free Time](#) (Hard)**
+20. **[Remove K Digits](#) (Medium)**
+21. **[Number of Days Between Two Dates](#) (Easy)**
 
-### Week7
-- [Problem 1: 01 Matrix](https://leetcode.com/problems/01-matrix/) 
-- [Problem 2: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) 
+### Special Challenges
+22. **[843Guess the Word](#) (Hard)** - Aug12
+23. **[332Reconstruct Itinerary](#) (Hard)**
 
-### Week8
-- [Problem 1: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 
-- [Problem 2: 3Sum](https://leetcode.com/problems/3sum/) 
-- [Problem 3: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) 
-- [Problem 4: Clone Graph](https://leetcode.com/problems/clone-graph/) 
+## Notes
+- 🔒: Indicates questions from premium content.
+- Solutions are linked where available. Please ensure you have access to view premium solutions if required.
+
+---
+
+**Disclaimer:** These questions are based on recent patterns observed in Google interviews. It's important to not only practice these problems but also understand the underlying concepts to tackle variations effectively.
