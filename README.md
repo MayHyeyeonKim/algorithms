@@ -34,7 +34,7 @@ This repository contains a curated list of recent high-frequency interview quest
 
 ### Special Challenges
 22. **[843Guess the Word](#) (Hard)** - Aug12
-23. **[332Reconstruct Itinerary](#) (Hard)**
+23. **[332Reconstruct Itinerary](#) (Hard)** - Aug13
 
 ## Notes
 - 🔒: Indicates questions from premium content.
