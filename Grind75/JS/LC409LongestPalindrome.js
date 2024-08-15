@@ -23,6 +23,15 @@ var longestPalindrome = function(s) {
     }
     //charCount 객체에 저장된 각 문자의 빈도를 순회. 만약 빈도가 짝수라면, 해당 문자를 모두 팰린드롬에 사용할 수 있으므로 length에 그 값을 더함.
     //빈도가 홀수인 경우, 팰린드롬의 양쪽에 동일한 개수만큼 배치할 수 있으므로 count - 1을 length에 더함. 또한, hasOdd를 true로 설정하여 홀수 빈도를 가진 문자가 있음을 표시함.
+    // for (let char in charCount) {
+    //     let count = charCount[char];
+    //         if (count % 2 === 0) {
+    //             length += count;
+    //         } else {
+    //             length += count - 1;
+    //             hasOdd = true;
+    //         }
+    //     }
 
 
 
