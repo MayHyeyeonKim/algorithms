@@ -23,10 +23,13 @@ var climbStairs = function(n) {
     let second = 2;
 
     for (let i = 3; i <= n; i++) {
-        let third = first + second; //third는 포인터가 아니라 그냥 변수이다.
-        first = second; //first 포인터는 "second 포인터가 가리키고 있는 값을 가리키는 것"을 할당한다.
-        second = third; //second 포인터는 "third 포인터가 가리키고 있는 값을 가리키는 것"을 할당한다.
+        let third = first + second;
+        first = second; //first포인터는 "second포인터가 가리키고 있는 값이 가리키는 것"을 참조한다.
+        second = third; //second포인터는 "third포인터가 가리키고 있는 값이 가리키는 것"을 참조한다.
     }
+
+// 원시 타입(Primitive Type): 값이 직접 저장됩니다. 값을 복사할 때, 새로운 복사본이 만들어집니다.
+// 참조 타입(Reference Type): 값이 저장된 메모리 주소를 참조합니다. 주소가 복사되기 때문에, 여러 변수가 동일한 객체를 가리킬 수 있습니다.
 
     return second;
 };
