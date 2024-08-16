@@ -10,3 +10,23 @@ function climbStairs(n) {
 }
 
 console.log(climbStairs(5)); // Output: 8
+
+
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var climbStairs = function(n) {
+    if (n <= 2) return n;
+
+    let first = 1;
+    let second = 2;
+
+    for (let i = 3; i <= n; i++) {
+        let third = first + second; //third는 포인터가 아니라 그냥 변수이다.
+        first = second; //first 포인터는 "second 포인터가 가리키고 있는 값을 가리키는 것"을 할당한다.
+        second = third; //second 포인터는 "third 포인터가 가리키고 있는 값을 가리키는 것"을 할당한다.
+    }
+
+    return second;
+};

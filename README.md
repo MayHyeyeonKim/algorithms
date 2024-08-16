@@ -7,8 +7,8 @@ This repository contains a curated list of recent high-frequency interview quest
 
 ### April Interview Questions
 1. **[Finding the Number of Visible Mountains](#) (Medium)** - Aug14
-2. **[Largest Color Value in a Directed Graph](#) (Hard)**
-3. **[Minimum Flips in Binary Tree to Get Result](#) (Hard)**
+2. **[Largest Color Value in a Directed Graph](#) (Hard)** - Aug16
+3. **[Minimum Flips in Binary Tree to Get Result](#) (Hard)** - Aug15
 4. **[Sum of Subarray Ranges](#) (Medium)**
 5. **[Closest Node to Path in Tree](#) (Hard)**
 6. **[Shortest Unsorted Continuous Subarray](#) (Medium)**

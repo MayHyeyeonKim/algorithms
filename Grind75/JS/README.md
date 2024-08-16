@@ -29,10 +29,10 @@
 - [Problem 3: Ransom Note](https://leetcode.com/problems/ransom-note/) ✅
 
 ### Week6
-- [Problem 1: 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) 
-- [Problem 2: 409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) 
-- [Problem 3: 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) 
-- [Problem 4: 169. Majority Element](https://leetcode.com/problems/majority-element/description/) 
+- [Problem 1: 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) ✅
+- [Problem 2: 409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) ✅
+- [Problem 3: 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) ✅
+- [Problem 4: 169. Majority Element](https://leetcode.com/problems/majority-element/description/) ✅
 - [Problem 5: 67. Add Binary](https://leetcode.com/problems/add-binary/description/) 
 - [Problem 6: 543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) 
 - [Problem 7: 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) 
