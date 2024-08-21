@@ -35,9 +35,9 @@ ex) 의존성 해결, 사이클 검출: 위상 정렬을 수행하다가 모든 
  * @return {number}
  */
 var largestPathValue = function(colors, edges) {
-    const n = colors.length;
-    const visited = Array(n).fill(0);
-    const maxCount = Array(n).fill(0).map(_=>Array(26).fill(0));
+    const n = colors.length; //컬러 갯수
+    const visited = Array(n).fill(0); //Array(5).fill(0);면 [0,0,0,0,0]
+    const maxCount = Array(n).fill(0).map(_=>Array(26).fill(0)); // 각 노드에서 알파벳 별 최대 색깔 개수를 저장하는 2차원 배열 생성
     const adj = Array(n).fill(0).map(_=>[]);
     
     for(const [a,b] of edges){
