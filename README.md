@@ -8,14 +8,14 @@ This repository contains a curated list of recent high-frequency interview quest
 ### April Interview Questions
 1. **[Finding the Number of Visible Mountains](#) (Medium)** - Aug14
 2. **[Largest Color Value in a Directed Graph](#) (Hard)** - Aug16
-3. **[Minimum Flips in Binary Tree to Get Result](#) (Hard)** - Aug15
-4. **[Sum of Subarray Ranges](#) (Medium)** - Aug19
-5. **[Closest Node to Path in Tree](#) (Hard)**
-6. **[Shortest Unsorted Continuous Subarray](#) (Medium)**
-7. **[Design Video Sharing Platform](#) (Hard)**
-8. **[Search in Rotated Sorted Array](#) (Medium)**
-9. **[Sort Array by Moving Items to Empty Space](#) (Hard)**
-10. **[Validate Stack Sequences](#) (Medium)**
+3. **[Minimum Flips in Binary Tree to Get Result](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/description/?envType=study-plan-v2&envId=google-spring-23-high-frequency) (Hard)** - Aug15
+4. **[Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/description/?envType=study-plan-v2&envId=google-spring-23-high-frequency) (Medium)** - Aug19
+5. **[Closest Node to Path in Tree](https://leetcode.com/problems/closest-node-to-path-in-tree/description/?envType=study-plan-v2&envId=google-spring-23-high-frequency) (Hard)** - Aug20
+6. **[Shortest Unsorted Continuous Subarray](#) (Medium)** - Aug21
+7. **[Design Video Sharing Platform](#) (Hard)** - Aug22
+8. **[Search in Rotated Sorted Array](#) (Medium)** - Aug23
+9. **[Sort Array by Moving Items to Empty Space](#) (Hard)** - Aug26
+10. **[Validate Stack Sequences](#) (Medium)** - Aug27
 11. **[Check if There is a Path With Equal Number of 0's And 1's](#) (Medium)**
 12. **[Number of Enclaves](#) (Medium)**
 13. **[Number of Closed Islands](#) (Medium)**
