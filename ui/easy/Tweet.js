@@ -108,7 +108,7 @@ const Tweet = ({
 //   }
   
 //   .tweet {
-//     --spacing: 30px;
+//     --spacing: 30px; //이렇게 변수로 설정해서 아래에서 var로쓰임
   
 //     background-color: #fff;
 //     border: 1px solid #cfd9de;
