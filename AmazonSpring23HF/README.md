@@ -19,7 +19,7 @@ Below is a list of LeetCode problems frequently asked in Amazon interviews. Each
 | :---: | --- | :---: | :---: | :---: |
 | 1 | [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium | [View Problem](https://leetcode.com/problems/the-kth-factor-of-n/) | [X] |
 | 2 | [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | Medium | [View Problem](https://leetcode.com/problems/optimal-partition-of-string/) | [X] |
-| 3 | [2771. Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door/) | Hard | [View Problem](https://leetcode.com/problems/time-taken-to-cross-the-door/) | [ ] |
+| 3 | [2534. Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door/) | Hard | [View Problem](https://leetcode.com/problems/time-taken-to-cross-the-door/) | [ ] |
 | 4 | [1676. Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/) | Medium | [View Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/) | [ ] |
 | 5 | [1703. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | Medium | [View Problem](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [ ] |
 | 6 | [2776. Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/) | Hard | [View Problem](https://leetcode.com/problems/count-the-number-of-k-big-indices/) | [ ] |
