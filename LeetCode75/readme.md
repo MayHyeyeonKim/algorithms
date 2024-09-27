@@ -3,7 +3,7 @@
 | **Problem**                                                        | **Category**            | **Difficulty** | **Date**     | **Status**  |
 |--------------------------------------------------------------------|-------------------------|----------------|--------------|-------------|
 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)         | -                       | Easy           | [9/21]          | [X]         |
-| [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | -                       | Easy           | [ ]          | [ ]         |
+| [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | -                       | Easy           | [9/26]          | [X]         |
 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | -                       | Easy           | [ ]          | [ ]         |
 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                           | -                       | Easy           | [ ]          | [ ]         |
 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)         | -                       | Easy           | [ ]          | [ ]         |
