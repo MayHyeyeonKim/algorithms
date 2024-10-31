@@ -36,3 +36,33 @@ function buildTree() {
   console.log("nodes:", nodes);
   return nodes;
 }
+
+var lowestCommonAncestor = function (p, q) {
+  let pDepth = getDepth(p);
+  let qDepth = getDepth(q);
+
+  while (pDepth !== qDepth) {
+    if (pDepth > qDepth) {
+      p = p.parent;
+      pDepth -= 1;
+    } else {
+      q = q.parent;
+      qDepth -= 1;
+    }
+  }
+
+  while (p !== q) {
+    p = p.parent;
+    q = q.parent;
+  }
+  return p;
+};
+
+var getDepth = function (node) {
+  let depth = 0;
+  while (node) {
+    node = node.parent;
+    depth++;
+  }
+  return depth;
+};
