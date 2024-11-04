@@ -1,6 +1,6 @@
 # Array / String
 
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - Easy
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - Easy ✅
 - [Remove Element](https://leetcode.com/problems/remove-element/) - Easy
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - Easy
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) - Medium
