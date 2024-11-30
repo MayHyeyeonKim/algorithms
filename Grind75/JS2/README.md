@@ -19,7 +19,7 @@
 ### Week3 -
 
 - [Problem 1: Valid Anagram](https://leetcode.com/problems/valid-anagram/) ✅
-- [Problem 2: Binary Search](https://leetcode.com/problems/binary-search/)
+- [Problem 2: Binary Search](https://leetcode.com/problems/binary-search/) ✅
 - [Problem 3: Flood Fill](https://leetcode.com/problems/flood-fill/)
 
 ### Week4 -
