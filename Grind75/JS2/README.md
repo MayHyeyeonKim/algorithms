@@ -14,7 +14,7 @@
 
 - [Problem 1: Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ✅
 - [Problem 2: Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ✅
-- [Problem 3: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [Problem 3: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ✅
 
 ### Week3 -
 
