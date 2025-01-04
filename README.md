@@ -11,7 +11,7 @@
 |                       | Product of Array Except Self                  | Medium     |             |          |
 |                       | Increasing Triplet Subsequence                | Medium     |             |          |
 |                       | String Compression                            | Medium     |             |          |
-| Two Pointers          | Move Zeroes                                   | Easy       |  2025-01-03 |          |
+| Two Pointers          | Move Zeroes                                   | Easy       |  01-03      |    X     |
 |                       | Is Subsequence                                | Easy       |             |          |
 |                       | Container With Most Water                     | Medium     |             |          |
 |                       | Max Number of K-Sum Pairs                     | Medium     |             |          |
