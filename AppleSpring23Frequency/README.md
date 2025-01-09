@@ -7,7 +7,7 @@
 | Longest ZigZag Path in a Binary Tree           | Medium         |            |
 | Subarray Sum Equals K                          | Medium         |            |
 | Unique Number of Occurrences                   | Easy           | O          |
-| Roman to Integer                               | Easy           |            |
+| Roman to Integer                               | Easy           | O          |
 | Reverse Linked List                            | Easy           |            |
 | Best Time to Buy and Sell Stock                | Easy           |            |
 | Median of Two Sorted Arrays                    | Hard           |            |
