@@ -1,20 +1,22 @@
-function maxProfit(prices){
-    let minPrice = Infinity;
-    let maxProfit = 0;
+function maxProfit(prices) {
+  let minPrice = Infinity;
+  let maxProfit = 0;
 
-    for(let price of prices){
-        if(price<minPrice){
-            minPrice = price;
-        }
-
-        let profit = price - minPrice
-
-        if(profit > maxProfit){
-            maxProfit = profit
-        }
+  for (let price of prices) {
+    if (price < minPrice) {
+      minPrice = price;
     }
-    return maxProfit
+
+    let profit = price - minPrice;
+
+    if (profit > maxProfit) {
+      maxProfit = profit;
+    }
+  }
+  return maxProfit;
 }
 
-prices = [7,1,5,3,6,4]
-maxProfit(prices)
+prices = [7, 1, 5, 3, 6, 4];
+maxProfit(prices);
+
+console.log(maxProfit(prices));
