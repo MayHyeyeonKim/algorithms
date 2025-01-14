@@ -9,7 +9,7 @@
 | Unique Number of Occurrences                   | Easy           | O          |
 | Roman to Integer                               | Easy           | O          |
 | Reverse Linked List                            | Easy           |            |
-| Best Time to Buy and Sell Stock                | Easy           |            |
+| Best Time to Buy and Sell Stock                | Easy           | O          |
 | Median of Two Sorted Arrays                    | Hard           |            |
 | Trapping Rain Water                            | Hard           |            |
 | Maximum Subarray                               | Medium         |            |
