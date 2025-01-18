@@ -10,7 +10,7 @@
 | Roman to Integer                               | Easy           | O          |
 | Reverse Linked List                            | Easy           |            |
 | Best Time to Buy and Sell Stock                | Easy           | O          |
-| Median of Two Sorted Arrays                    | Hard           |            |
+| Median of Two Sorted Arrays                    | Hard           | O          |
 | Trapping Rain Water                            | Hard           |            |
 | Maximum Subarray                               | Medium         |            |
 | Remove Duplicates from Sorted Array            | Easy           |            |
