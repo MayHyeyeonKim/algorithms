@@ -15,7 +15,7 @@
 | Maximum Subarray                               | Medium         |            |
 | Remove Duplicates from Sorted Array            | Easy           |            |
 | Valid Parentheses                              | Easy           | O          |
-| Longest Substring Without Repeating Characters | Medium         |            |
+| Longest Substring Without Repeating Characters | Medium         | O          |
 
 ---
 
