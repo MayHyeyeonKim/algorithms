@@ -27,7 +27,7 @@
 | Integer to English Words  | Hard           |            |
 | Minimize Maximum of Array | Medium         |            |
 | Longest Common Prefix     | Easy           |            |
-| Big Countries             | Easy           |            |
+| Big Countries             | Easy           | O          |
 
 ---
 
