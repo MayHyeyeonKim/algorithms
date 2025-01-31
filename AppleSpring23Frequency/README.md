@@ -36,7 +36,7 @@
 | **Problem**                     | **Difficulty** | **Solved** |
 | ------------------------------- | -------------- | ---------- |
 | Number of Islands               | Medium         | O          |
-| Top K Frequent Words            | Medium         |            |
+| Top K Frequent Words            | Medium         | O          |
 | Find Median from Data Stream    | Hard           |            |
 | Furthest Building You Can Reach | Medium         |            |
 | Valid Sudoku                    | Medium         |            |
