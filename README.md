@@ -13,7 +13,7 @@
 | Median of Two Sorted Arrays                    | Hard           | O          |
 | Trapping Rain Water                            | Hard           |            |
 | Maximum Subarray                               | Medium         |            |
-| Remove Duplicates from Sorted Array            | Easy           |            |
+| Remove Duplicates from Sorted Array            | Easy           | O          |
 | Valid Parentheses                              | Easy           | O          |
 | Longest Substring Without Repeating Characters | Medium         | O          |
 
