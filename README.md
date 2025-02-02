@@ -26,7 +26,7 @@
 | Combination Sum           | Medium         | O          |
 | Integer to English Words  | Hard           |            |
 | Minimize Maximum of Array | Medium         |            |
-| Longest Common Prefix     | Easy           |            |
+| Longest Common Prefix     | Easy           | O          |
 | Big Countries             | Easy           | O          |
 
 ---
