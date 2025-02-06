@@ -39,6 +39,6 @@
 | Top K Frequent Words            | Medium         | O          |
 | Find Median from Data Stream    | Hard           | O          |
 | Furthest Building You Can Reach | Medium         |            |
-| Valid Sudoku                    | Medium         |            |
+| Valid Sudoku                    | Medium         | O          |
 
 ---
