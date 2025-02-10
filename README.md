@@ -38,7 +38,7 @@
 | Number of Islands               | Medium         | O          |
 | Top K Frequent Words            | Medium         | O          |
 | Find Median from Data Stream    | Hard           | O          |
-| Furthest Building You Can Reach | Medium         |            |
+| Furthest Building You Can Reach | Medium         | O          |
 | Valid Sudoku                    | Medium         | O          |
 
 ---
