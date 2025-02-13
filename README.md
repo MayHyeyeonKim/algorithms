@@ -1,44 +1,70 @@
-# **Apple Spring '23 High Frequency**
+## Premium Algo 100
 
-## **April Interview Questions**
+## **Algorithm Problems**
 
-| **Problem**                                    | **Difficulty** | **Solved** |
-| ---------------------------------------------- | -------------- | ---------- |
-| Longest ZigZag Path in a Binary Tree           | Medium         |            |
-| Subarray Sum Equals K                          | Medium         |            |
-| Unique Number of Occurrences                   | Easy           | O          |
-| Roman to Integer                               | Easy           | O          |
-| Reverse Linked List                            | Easy           |            |
-| Best Time to Buy and Sell Stock                | Easy           | O          |
-| Median of Two Sorted Arrays                    | Hard           | O          |
-| Trapping Rain Water                            | Hard           |            |
-| Maximum Subarray                               | Medium         |            |
-| Remove Duplicates from Sorted Array            | Easy           | O          |
-| Valid Parentheses                              | Easy           | O          |
-| Longest Substring Without Repeating Characters | Medium         | O          |
-
----
-
-## **March Interview Questions**
-
-| **Problem**               | **Difficulty** | **Solved** |
-| ------------------------- | -------------- | ---------- |
-| Combination Sum           | Medium         | O          |
-| Integer to English Words  | Hard           |            |
-| Minimize Maximum of Array | Medium         |            |
-| Longest Common Prefix     | Easy           | O          |
-| Big Countries             | Easy           | O          |
-
----
-
-## **February Interview Questions**
-
-| **Problem**                     | **Difficulty** | **Solved** |
-| ------------------------------- | -------------- | ---------- |
-| Number of Islands               | Medium         | O          |
-| Top K Frequent Words            | Medium         | O          |
-| Find Median from Data Stream    | Hard           | O          |
-| Furthest Building You Can Reach | Medium         | O          |
-| Valid Sudoku                    | Medium         | O          |
-
----
+| **Category**   | **Problem**                                            | **Difficulty** | **Solved** |
+| -------------- | ------------------------------------------------------ | -------------- | ---------- |
+| Array / String | Maximum Distance in Arrays                             | Medium         |            |
+| Array / String | Wiggle Sort                                            | Medium         |            |
+| Array / String | Confusing Number                                       | Easy           |            |
+| Array / String | Perform String Shifts                                  | Easy           |            |
+| Array / String | One Edit Distance                                      | Medium         |            |
+| Array / String | Reverse Words in a String II                           | Medium         |            |
+| Array / String | Shortest Way to Form String                            | Medium         |            |
+| Sliding Window | Longest Substring with At Most Two Distinct Characters | Medium         |            |
+| Sliding Window | Longest Substring with At Most K Distinct Characters   | Medium         |            |
+| Sliding Window | Max Consecutive Ones II                                | Medium         |            |
+| Sliding Window | Find K-Length Substrings With No Repeated Characters   | Medium         |            |
+| Hashing        | Find Anagram Mappings                                  | Easy           |            |
+| Hashing        | Palindrome Permutation                                 | Easy           |            |
+| Hashing        | Sentence Similarity                                    | Easy           |            |
+| Hashing        | Single-Row Keyboard                                    | Easy           |            |
+| Hashing        | Group Shifted Strings                                  | Medium         |            |
+| Hashing        | Largest Unique Number                                  | Easy           |            |
+| Hashing        | Counting Elements                                      | Easy           |            |
+| Hashing        | Find Smallest Common Element in All Rows               | Medium         |            |
+| Matrix         | Valid Word Square                                      | Easy           |            |
+| Matrix         | Lonely Pixel I                                         | Medium         |            |
+| Matrix         | Sparse Matrix Multiplication                           | Medium         |            |
+| Matrix         | Candy Crush                                            | Medium         |            |
+| Intervals      | Missing Ranges                                         | Easy           |            |
+| Intervals      | Meeting Rooms                                          | Easy           |            |
+| Intervals      | Meeting Rooms II                                       | Medium         |            |
+| Intervals      | Add Bold Tag in String                                 | Medium         |            |
+| Intervals      | Remove Interval                                        | Medium         |            |
+| Stack          | Ternary Expression Parser                              | Medium         |            |
+| Stack          | Find Permutation                                       | Medium         |            |
+| Stack          | Basic Calculator III                                   | Hard           |            |
+| Queue          | Moving Average from Data Stream                        | Easy           |            |
+| Queue          | First Unique Number                                    | Medium         |            |
+| Linked Lists   | Delete N Nodes After M Nodes of a Linked List          | Easy           |            |
+| Linked Lists   | Insert into a Sorted Circular Linked List              | Medium         |            |
+| Linked Lists   | Plus One Linked List                                   | Medium         |            |
+| Linked Lists   | Print Immutable Linked List in Reverse                 | Medium         |            |
+| Binary Tree    | Binary Tree Longest Consecutive Sequence               | Medium         |            |
+| Binary Tree    | Binary Tree Longest Consecutive Sequence II            | Medium         |            |
+| Binary Tree    | Count Univalue Subtrees                                | Medium         |            |
+| Binary Tree    | Maximum Average Subtree                                | Medium         |            |
+| Binary Tree    | Boundary of Binary Tree                                | Medium         |            |
+| Binary Tree    | Find Leaves of Binary Tree                             | Medium         |            |
+| Binary Tree    | Binary Tree Vertical Order Traversal                   | Medium         |            |
+| BST            | Closest Binary Search Tree Value                       | Easy           |            |
+| BST            | Closest Binary Search Tree Value II                    | Hard           |            |
+| BST            | Verify Preorder Sequence in Binary Search Tree         | Medium         |            |
+| BST            | Two Sum BSTs                                           | Medium         |            |
+| BST            | Largest BST Subtree                                    | Medium         |            |
+| N-ary Tree     | Clone N-ary Tree                                       | Medium         |            |
+| N-ary Tree     | Find Root of N-Ary Tree                                | Medium         |            |
+| N-ary Tree     | Diameter of N-Ary Tree                                 | Medium         |            |
+| Graph          | Find the Celebrity                                     | Medium         |            |
+| Graph          | Kill Process                                           | Medium         |            |
+| Graph          | Number of Connected Components in an Undirected Graph  | Medium         |            |
+| Graph          | All Paths from Source Lead to Destination              | Medium         |            |
+| Graph          | Web Crawler                                            | Medium         |            |
+| Graph          | Number of Islands II                                   | Hard           |            |
+| Graph          | Number of Distinct Islands                             | Medium         |            |
+| Graph          | Parallel Courses                                       | Medium         |            |
+| Math           | Armstrong Number                                       | Easy           |            |
+| Math           | Count Substrings with Only One Distinct Letter         | Easy           |            |
+| Math           | Guess the Majority in a Hidden Array                   | Medium         |            |
+| Math           | Maximum Number of Ones                                 | Hard           |            |
