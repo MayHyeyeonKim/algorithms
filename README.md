@@ -5,7 +5,7 @@
 | **Category**   | **Problem**                                            | **Difficulty** | **Solved** |
 | -------------- | ------------------------------------------------------ | -------------- | ---------- |
 | Array / String | Maximum Distance in Arrays                             | Medium         | O          |
-| Array / String | Wiggle Sort                                            | Medium         |            |
+| Array / String | Wiggle Sort                                            | Medium         | O          |
 | Array / String | Confusing Number                                       | Easy           |            |
 | Array / String | Perform String Shifts                                  | Easy           |            |
 | Array / String | One Edit Distance                                      | Medium         |            |
