@@ -7,7 +7,7 @@
 | Array / String | Maximum Distance in Arrays                             | Medium         | O          |
 | Array / String | Wiggle Sort                                            | Medium         | O          |
 | Array / String | Confusing Number                                       | Easy           | O          |
-| Array / String | Perform String Shifts                                  | Easy           |            |
+| Array / String | Perform String Shifts                                  | Easy           | O          |
 | Array / String | One Edit Distance                                      | Medium         |            |
 | Array / String | Reverse Words in a String II                           | Medium         |            |
 | Array / String | Shortest Way to Form String                            | Medium         |            |
