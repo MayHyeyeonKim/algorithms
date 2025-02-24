@@ -8,7 +8,7 @@
 | Array / String | Wiggle Sort                                            | Medium         | O          |
 | Array / String | Confusing Number                                       | Easy           | O          |
 | Array / String | Perform String Shifts                                  | Easy           | O          |
-| Array / String | One Edit Distance                                      | Medium         |            |
+| Array / String | One Edit Distance                                      | Medium         | O          |
 | Array / String | Reverse Words in a String II                           | Medium         |            |
 | Array / String | Shortest Way to Form String                            | Medium         |            |
 | Sliding Window | Longest Substring with At Most Two Distinct Characters | Medium         |            |
