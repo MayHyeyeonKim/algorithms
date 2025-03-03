@@ -10,7 +10,7 @@
 | Array / String | Perform String Shifts                                  | Easy           | O          |
 | Array / String | One Edit Distance                                      | Medium         | O          |
 | Array / String | Reverse Words in a String II                           | Medium         | O          |
-| Array / String | Shortest Way to Form String                            | Medium         |            |
+| Array / String | Shortest Way to Form String                            | Medium         | O          |
 | Sliding Window | Longest Substring with At Most Two Distinct Characters | Medium         |            |
 | Sliding Window | Longest Substring with At Most K Distinct Characters   | Medium         |            |
 | Sliding Window | Max Consecutive Ones II                                | Medium         |            |
