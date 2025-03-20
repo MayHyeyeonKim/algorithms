@@ -2,6 +2,7 @@
 
 🚀 **Learn JavaScript Basics with 30 Challenges**  
 ✔ 총 **35개** 문제 중 **31개 완료** -> 5 hours, 37 minutes 소요
+
 ✔ JavaScript의 핵심 개념(클로저, 배열 변환, 프로미스, JSON, 클래스 등) 학습 가능
 
 ---
