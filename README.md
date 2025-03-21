@@ -11,7 +11,7 @@
 
 | Day | Problem                                               | Difficulty | Status |
 | --- | ----------------------------------------------------- | ---------- | ------ |
-| 1   | Minimum Size Subarray Sum                             | 🟠 Medium  | ☐      |
+| 1   | Minimum Size Subarray Sum                             | 🟠 Medium  | O      |
 | 2   | Bus Routes                                            | 🔴 Hard    | ☐      |
 | 3   | Merge k Sorted Lists                                  | 🔴 Hard    | ☐      |
 | 4   | Sort Linked List Already Sorted Using Absolute Values | 🟠 Medium  | ☐      |
