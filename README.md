@@ -14,7 +14,7 @@
 | 1   | Minimum Size Subarray Sum                             | 🟠 Medium  | O      |
 | 2   | Bus Routes                                            | 🔴 Hard    | O      |
 | 3   | Merge k Sorted Lists                                  | 🔴 Hard    | O      |
-| 4   | Sort Linked List Already Sorted Using Absolute Values | 🟠 Medium  | ☐      |
+| 4   | Sort Linked List Already Sorted Using Absolute Values | 🟠 Medium  | O      |
 | 5   | Longest Palindromic Substring                         | 🟠 Medium  | ☐      |
 | 6   | Number of Ways of Cutting a Pizza                     | 🔴 Hard    | ☐      |
 | 7   | Binary Tree Maximum Path Sum                          | 🔴 Hard    | ☐      |
