@@ -1,7 +1,5 @@
 # Top Microsoft Questions sorted by frequency
 
-# 🧠 Top Microsoft LeetCode Questions
-
 > Progress: **13 / 50 solved**
 
 | #   | Title                                                                                                                                                                   | Difficulty | Done |
