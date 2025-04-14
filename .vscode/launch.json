@@ -7,9 +7,10 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Launch Program",
+      "name": "Debug Current File",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/AppleSpring23Frequency/LC26_RemoveDuplicatesFromSortedArray.js"
+      "program": "${file}",
+      "console": "integratedTerminal"
     }
   ]
 }
