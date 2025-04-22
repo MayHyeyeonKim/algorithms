@@ -5,6 +5,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "ThreeSum",
+      "request": "launch",
+      "mainClass": "ThreeSum",
+      "projectName": "algorithms_97be4fd1"
+    },
+    {
+      "type": "java",
+      "name": "LogestHappyString",
+      "request": "launch",
+      "mainClass": "LogestHappyString",
+      "projectName": "algorithms_97be4fd1"
+    },
+    {
       "type": "node",
       "request": "launch",
       "name": "Debug Current File",
