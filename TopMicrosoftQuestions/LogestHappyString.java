@@ -1,8 +1,6 @@
-// 가장 수가 많은 문자를 우선적으로 사용하되, 같은 문자가 3번 연속 안 나오게 제어해야 함
-
 import java.util.PriorityQueue;
 
-public class Solution {
+public class LogestHappyString {
     public String longestDiverseString(int a, int b, int c) {
         PriorityQueue<Letter> maxHeap = new PriorityQueue<>((x, y) -> y.count - x.count);
 
@@ -29,7 +27,7 @@ public class Solution {
                 if (second.count > 0) {
                     maxHeap.offer(second);
                 }
-                maxHeap.offer(first)
+                maxHeap.offer(first);
             } else {
                 sb.append(first.ch);
                 first.count--;
@@ -42,6 +40,7 @@ public class Solution {
     }
 
     static class Letter {
+
         char ch;
         int count;
 
@@ -49,5 +48,11 @@ public class Solution {
             this.ch = ch;
             this.count = count;
         }
+    }
+
+    public static void main(String[] args) {
+        LogestHappyString lhs = new LogestHappyString();
+        String res = lhs.longestDiverseString(1, 1, 7);
+        System.out.println(res);
     }
 }
