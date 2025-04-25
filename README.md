@@ -1,6 +1,6 @@
 # Top Microsoft Questions sorted by frequency
 
-> Progress: ** 20 / 50 solved**
+> Progress: ** 21 / 50 solved**
 
 | #   | Title                                                                                                                                                                   | Difficulty | Done |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
@@ -21,7 +21,7 @@
 | 15  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                                               | Hard       | ⬜   |
 | 16  | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)                                                                                                     | Hard       | ⬜   |
 | 17  | [Decode String](https://leetcode.com/problems/decode-string/)                                                                                                           | Medium     | ✅   |
-| 18  | [Word Search](https://leetcode.com/problems/word-search/)                                                                                                               | Medium     | ⬜   |
+| 18  | [Word Search](https://leetcode.com/problems/word-search/)                                                                                                               | Medium     | ✅   |
 | 19  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                                           | Medium     | ✅   |
 | 20  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                                                                 | Medium     | ⬜   |
 | 21  | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)                                                                                     | Medium     | ⬜   |
