@@ -48,6 +48,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LoggerRateLimiter",
+      "request": "launch",
+      "mainClass": "LoggerRateLimiter",
+      "projectName": "algorithms_97be4fd1"
+    },
+    {
+      "type": "java",
       "name": "_IntegertoEnglishWords",
       "request": "launch",
       "mainClass": "_IntegertoEnglishWords",

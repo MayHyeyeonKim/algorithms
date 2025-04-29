@@ -6,12 +6,24 @@ public class LoggerRateLimiter {
 
     private Map<String, Integer> map;
 
-    public Logger(){
+    public LoggerRateLimiter() {
         map = new HashMap<>();
     }
 
     public boolean shouldPrintMessage(int timestamp, String message) {
         // logic here!
+
+        if (!map.containsKey(message)) {
+            map.put(message, timestamp);
+            return true;
+        }
+        int lastTimestamp = map.get(message);
+        if (timestamp >= lastTimestamp + 10) {
+            map.put(message, timestamp);
+            return true;
+        } else {
+            return false;
+        }
     }
 
     public static void main(String args[]) {
