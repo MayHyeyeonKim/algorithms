@@ -16,7 +16,7 @@
 | 10  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                                           | Medium     | ✅   |
 | 11  | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/)                                                                                             | Medium     | ✅   |
 | 12  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)                                                                                     | Hard       | ✅   |
-| 13  | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                                             | Hard       | ⬜   |
+| 13  | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                                             | Hard       | ✅   |
 | 14  | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)                                                                                               | Easy       | ✅   |
 | 15  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                                               | Hard       | ⬜   |
 | 16  | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)                                                                                                     | Hard       | ⬜   |
