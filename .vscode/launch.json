@@ -48,6 +48,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "findMedianfromDataStream",
+      "request": "launch",
+      "mainClass": "findMedianfromDataStream",
+      "projectName": "algorithms_97be4fd1"
+    },
+    {
+      "type": "java",
       "name": "LoggerRateLimiter",
       "request": "launch",
       "mainClass": "LoggerRateLimiter",
