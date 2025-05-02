@@ -48,6 +48,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BasicCalculator",
+      "request": "launch",
+      "mainClass": "BasicCalculator",
+      "projectName": "algorithms_97be4fd1"
+    },
+    {
+      "type": "java",
       "name": "findMedianfromDataStream",
       "request": "launch",
       "mainClass": "findMedianfromDataStream",
