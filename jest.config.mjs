@@ -9,6 +9,7 @@ export default {
   moduleNameMapper: {
     "^(\\.{1,2}/.*)\\.js$": "$1",
   },
+  testRegex: "(/__tests__/.*|(\\.|/)(test|spec))\\.ts$",
 };
 
 // npx ts -jest config:init 한번 해줘야 이게 생성됨
