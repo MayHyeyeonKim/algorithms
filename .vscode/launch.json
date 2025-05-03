@@ -48,6 +48,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DecodeString",
+      "request": "launch",
+      "mainClass": "DecodeString",
+      "projectName": "algorithms_97be4fd1"
+    },
+    {
+      "type": "java",
       "name": "BasicCalculator",
       "request": "launch",
       "mainClass": "BasicCalculator",
