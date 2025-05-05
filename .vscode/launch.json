@@ -48,6 +48,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LetterCombinationsofaPhoneNumber",
+      "request": "launch",
+      "mainClass": "LetterCombinationsofaPhoneNumber",
+      "projectName": "algorithms_97be4fd1"
+    },
+    {
+      "type": "java",
       "name": "DecodeString",
       "request": "launch",
       "mainClass": "DecodeString",
