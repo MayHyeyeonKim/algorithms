@@ -1,6 +1,6 @@
 # Top Microsoft Questions sorted by frequency
 
-> Progress: ** 22 / 50 solved**
+> Progress: ** 29 / 50 solved**
 
 | #   | Title                                                                                                                                                                   | Difficulty | Done |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
@@ -25,8 +25,8 @@
 | 19  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                                           | Medium     | ✅   |
 | 20  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                                                                 | Medium     | ✅   |
 | 21  | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)                                                                                     | Medium     | ✅   |
-| 22  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                                                               | Hard       | ⬜   |
-| 23  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                                                                                                   | Medium     | ⬜   |
+| 22  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                                                               | Hard       | ✅   |
+| 23  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                                                                                                   | Medium     | ✅   |
 | 24  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                                                   | Medium     | ✅   |
 | 25  | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                                                   | Easy       | ✅   |
 | 26  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                                                                                     | Hard       | ⬜   |
