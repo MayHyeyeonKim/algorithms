@@ -10,3 +10,6 @@ function reverseWords(s) {
 
 let s = "the sky is blue";
 console.log(reverseWords(s));
+
+// Try to think in-place!
+function reverseWords2(s) {}
