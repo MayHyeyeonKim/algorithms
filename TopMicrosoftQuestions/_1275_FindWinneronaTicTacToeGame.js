@@ -44,38 +44,22 @@ function findWinner(moves) {
   const checkWinner = (player) => {
     //가로
     for (let i = 0; i < 3; i++) {
-      if (
-        board[i][0] === player &&
-        board[i][1] === player &&
-        board[i][2] === player
-      ) {
+      if (board[i][0] === player && board[i][1] === player && board[i][2] === player) {
         return true;
       }
     }
 
     //세로
     for (let i = 0; i < 3; i++) {
-      if (
-        board[0][i] === player &&
-        board[1][i] === player &&
-        board[2][i] === player
-      ) {
+      if (board[0][i] === player && board[1][i] === player && board[2][i] === player) {
         return true;
       }
     }
 
-    if (
-      board[0][0] === player &&
-      board[1][1] === player &&
-      board[2][2] === player
-    ) {
+    if (board[0][0] === player && board[1][1] === player && board[2][2] === player) {
       return true;
     }
-    if (
-      board[0][2] === player &&
-      board[1][1] === player &&
-      board[2][0] === player
-    ) {
+    if (board[0][2] === player && board[1][1] === player && board[2][0] === player) {
       return true;
     }
     return false;
@@ -95,3 +79,7 @@ let moves = [
   [2, 2],
 ];
 console.log(findWinner(moves));
+
+// Think about how to solve an n*n board
+// function findWinner2(moves) {
+//   const n = moves.length;
