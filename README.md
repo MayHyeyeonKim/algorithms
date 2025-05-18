@@ -32,7 +32,7 @@
 | 26  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                                                                                     | Hard       | ✅   |
 | 27  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                                           | Hard       | ✅   |
 | 28  | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                                                         | Hard       | ✅   |
-| 29  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                                                                           | Medium     | ⬜   |
+| 29  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                                                                           | Medium     | ✅   |
 | 30  | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)                                                           | Medium     | ⬜   |
 | 31  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)                                                     | Medium     | ⬜   |
 | 32  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                                                                     | Medium     | ⬜   |
