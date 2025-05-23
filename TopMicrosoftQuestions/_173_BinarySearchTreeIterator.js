@@ -62,3 +62,29 @@ console.log(iterator.hasNext()); // return true
 console.log(iterator.next()); // return 20
 console.log(iterator.hasNext()); // return false
 // Output: [3, 7, true, 9, true, 15, true, 20, false]
+
+//함수로
+
+var BSTIterator = function (root) {
+  this.stack = [];
+  this._leftmostInorder(root);
+};
+
+BSTIterator.prototype._leftmostInorder = function (node) {
+  while (node) {
+    this.stack.push(node);
+    node = node.left;
+  }
+};
+
+BSTIterator.prototype.next = function () {
+  let topNode = this.stack.pop();
+  if (topNode.right) {
+    this._leftmostInorder(topNode.right);
+  }
+  return topNode.val;
+};
+
+BSTIterator.prototype.hasNext = function () {
+  return this.stack.length > 0;
+};
