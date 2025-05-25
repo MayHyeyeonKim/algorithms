@@ -1,6 +1,6 @@
 # Top Microsoft Questions sorted by frequency
 
-> Progress: ** 37 / 50 solved**
+> Progress: ** 38 / 50 solved**
 
 | #   | Title                                                                                                                                                                   | Difficulty | Done |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
@@ -37,7 +37,7 @@
 | 31  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)                                                     | Medium     | ✅   |
 | 32  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                                                                     | Medium     | ✅   |
 | 33  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)                                                                               | Medium     | ✅   |
-| 34  | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium     | ⬜   |
+| 34  | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium     | ✅   |
 | 35  | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)                 | Hard       | ⬜   |
 | 36  | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)                                                                             | Hard       | ⬜   |
 | 37  | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)                                                                                 | Medium     | ⬜   |
