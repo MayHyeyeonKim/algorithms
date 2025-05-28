@@ -23,3 +23,7 @@ function numSteps(s) {
 
 let num = "1101";
 console.log(numSteps(num));
+
+// 이렇게 풀면 안되고 carry를 이용해서 풀어야 한대.
+// greedy로
+function numSteps_carry(s) {}
