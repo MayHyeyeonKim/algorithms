@@ -1,4 +1,5 @@
 // 2035. Partition Array Into Two Arrays to Minimize Sum Difference
+//완준 어려움!!
 /**
 
 nums = [3,9,7,3]
