@@ -39,7 +39,7 @@
 | 33  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)                                                                               | Medium     | ✅   |
 | 34  | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium     | ✅   |
 | 35  | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)                 | Hard       | ✅   |
-| 36  | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)                                                                             | Hard       | ⬜   |
+| 36  | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)                                                                             | Hard       | ✅   |
 | 37  | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)                                                                                 | Medium     | ⬜   |
 | 38  | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)                                                   | Medium     | ⬜   |
 | 39  | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)                                       | Hard       | ⬜   |
