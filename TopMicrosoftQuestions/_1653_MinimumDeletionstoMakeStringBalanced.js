@@ -6,3 +6,26 @@
     예를 들어, "aabbb"는 balanced하지만, "ba" 또는 "abab"은 아님!
 문자열을 balanced하게 만들기 위해 삭제해야 하는 최소 문자 수를 구하는 문제
  */
+
+function minimumDeletions(s) {
+  let countB = 0;
+  let deletion = 0;
+  for (let c of s) {
+    if (c === "b") {
+      countB++;
+    } else {
+      if (countB > 0) {
+        countB--;
+        deletion++;
+      }
+    }
+  }
+  return deletion;
+}
+
+const s = "aababbab";
+console.log(minimumDeletions(s)); // 2
+
+/**
+ greedy : picking the best looking option at the moment.
+ */
