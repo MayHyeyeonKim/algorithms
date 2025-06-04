@@ -67,3 +67,5 @@ const s = "abacbe";
 
 const result = longestPath(parent, s);
 console.log("✅ Longest path length:", result); // 예상 출력: 3
+
+//∀ (u, v) ∈ path: condition(u, v) = True 이거 만족 안되서 토폴로지소트 안된대!
