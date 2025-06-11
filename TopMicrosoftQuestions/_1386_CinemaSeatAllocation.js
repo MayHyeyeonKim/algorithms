@@ -20,7 +20,7 @@
 //             // 예약된 좌석이 없는 경우 → 2개 가능
 //             total += 2
 //             계속 다음 줄로
-
+ㄴ;
 //         reserved = Map[row]  // 해당 줄의 예약된 좌석 set
 
 //         // 4. 세 그룹 위치의 가능 여부 확인
@@ -37,6 +37,7 @@
 //             total += 0
 
 //     // 6. 결과 반환
+
 //     return total
 
 //TLETLETLETLETLETLE!!!!

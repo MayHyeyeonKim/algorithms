@@ -49,7 +49,7 @@
 | 43  | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)                         | Medium     | ✅   |
 | 44  | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                                                       | Medium     | ✅   |
 | 45  | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)                                                                                         | Medium     | ✅   |
-| 46  | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/)                                 | Medium     | ⬜   |
+| 46  | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/)                                 | Medium     | ✅   |
 | 47  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)                                                                                     | Medium     | ⬜   |
 | 48  | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)                                                                       | Easy       | ✅   |
 | 49  | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)                                                                 | Medium     | ⬜   |
