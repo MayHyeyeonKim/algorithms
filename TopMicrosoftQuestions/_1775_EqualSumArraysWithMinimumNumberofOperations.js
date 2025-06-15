@@ -1,1 +1,1 @@
-// _1775_EqualSumArraysWithMinimumNumberofOperations.js
+// _1775_EqualSumArraysWithMinimumNumberofOperations.js -
