@@ -1,6 +1,6 @@
 # Top Microsoft Questions sorted by frequency
 
-> Progress: ** 48 / 50 solved**
+> Progress: ** 50 / 50 solved**
 
 | #   | Title                                                                                                                                                                   | Difficulty | Done |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
@@ -53,4 +53,4 @@
 | 47  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)                                                                                     | Medium     | ✅   |
 | 48  | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)                                                                       | Easy       | ✅   |
 | 49  | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)                                                                 | Medium     | ✅   |
-| 50  | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)                                                                                             | Medium     | ⬜   |
+| 50  | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)                                                                                             | Medium     | ✅   |
