@@ -8,7 +8,7 @@
 | 2   | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                                   | Medium     | ✅   |
 | 3   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                                               | Hard       | ✅   |
 | 4   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                                       | Medium     | ✅   |
-| 5   | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)                                                                                       | Medium     | -    |
+| 5   | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)                                                                                       | Medium     | ✅   |
 | 6   | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                                               | Medium     | ✅   |
 | 7   | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                                                                     | Medium     | ✅   |
 | 8   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                                                     | Easy       | ✅   |
