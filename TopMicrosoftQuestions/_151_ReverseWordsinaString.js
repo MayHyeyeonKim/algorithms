@@ -13,3 +13,5 @@ console.log(reverseWords(s));
 
 // Try to think in-place!
 function reverseWords2(s) {}
+
+// return s.trim().split(/\s+/).reverse().join(" ");
