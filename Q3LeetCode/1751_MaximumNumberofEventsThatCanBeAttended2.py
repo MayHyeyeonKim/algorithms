@@ -1,6 +1,7 @@
 # 1751. Maximum Number of Events That Can Be Attended II
 
-#Minsu's solution
+
+# Minsu's solution
 # bottom-up DP with binary search
 # [[1,2,4],[3,4,3],[2,3,1]]
 # K=2
