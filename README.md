@@ -4,7 +4,7 @@
 
 |   # | Title                                                        | Difficulty | Done |
 | --: | ------------------------------------------------------------ | :--------: | :--: |
-|   1 | 1249. Minimum Remove to Make Valid Parentheses               |    Med.    | [ ]  |
+|   1 | 1249. Minimum Remove to Make Valid Parentheses               |    Med.    |  ✅  |
 |   2 | 408. Valid Word Abbreviation                                 |    Easy    | [ ]  |
 |   3 | 236. Lowest Common Ancestor of a Binary Tree                 |    Med.    | [ ]  |
 |   4 | 543. Diameter of Binary Tree                                 |    Easy    | [ ]  |
