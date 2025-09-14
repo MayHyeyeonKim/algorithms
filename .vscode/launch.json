@@ -101,6 +101,14 @@
       "request": "launch",
       "mainClass": "ThreeSum",
       "projectName": "algorithms_97be4fd1"
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Debug Current JS File",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${file}",
+      "console": "integratedTerminal"
+    }
     }
   ]
 }
