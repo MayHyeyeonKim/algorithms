@@ -1,114 +1,13 @@
-// {
-//   // Use IntelliSense to learn about possible attributes.
-//   // Hover to view descriptions of existing attributes.
-//   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-//   "version": "0.2.0",
-//   "configurations": [
-//     {
-//       "type": "java",
-//       "name": "_IntegertoEnglishWords",
-//       "request": "launch",
-//       "mainClass": "_IntegertoEnglishWords",
-//       "projectName": "algorithms_97be4fd1"
-//     },
-//     {
-//       "type": "java",
-//       "name": "WordSearch",
-//       "request": "launch",
-//       "mainClass": "WordSearch",
-//       "projectName": "algorithms_97be4fd1"
-//     },
-//     {
-//       "type": "java",
-//       "name": "ThreeSum",
-//       "request": "launch",
-//       "mainClass": "ThreeSum",
-//       "projectName": "algorithms_97be4fd1"
-//     },
-//     {
-//       "type": "java",
-//       "name": "LogestHappyString",
-//       "request": "launch",
-//       "mainClass": "LogestHappyString",
-//       "projectName": "algorithms_97be4fd1"
-//     },
-//     {
-//       "type": "node",
-//       "request": "launch",
-//       "name": "Debug Current File",
-//       "skipFiles": ["<node_internals>/**"],
-//       "program": "${file}",
-//       "console": "integratedTerminal"
-//     }
-//   ]
-// }
-
 {
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-      "name": "LetterCombinationsofaPhoneNumber",
-      "request": "launch",
-      "mainClass": "LetterCombinationsofaPhoneNumber",
-      "projectName": "algorithms_97be4fd1"
-    },
-    {
-      "type": "java",
-      "name": "DecodeString",
-      "request": "launch",
-      "mainClass": "DecodeString",
-      "projectName": "algorithms_97be4fd1"
-    },
-    {
-      "type": "java",
-      "name": "BasicCalculator",
-      "request": "launch",
-      "mainClass": "BasicCalculator",
-      "projectName": "algorithms_97be4fd1"
-    },
-    {
-      "type": "java",
-      "name": "findMedianfromDataStream",
-      "request": "launch",
-      "mainClass": "findMedianfromDataStream",
-      "projectName": "algorithms_97be4fd1"
-    },
-    {
-      "type": "java",
-      "name": "LoggerRateLimiter",
-      "request": "launch",
-      "mainClass": "LoggerRateLimiter",
-      "projectName": "algorithms_97be4fd1"
-    },
-    {
-      "type": "java",
-      "name": "_IntegertoEnglishWords",
-      "request": "launch",
-      "mainClass": "_IntegertoEnglishWords",
-      "projectName": "algorithms_97be4fd1"
-    },
-    {
-      "type": "java",
-      "name": "WordSearch",
-      "request": "launch",
-      "mainClass": "WordSearch",
-      "projectName": "algorithms_97be4fd1"
-    },
-    {
-      "type": "java",
-      "name": "ThreeSum",
-      "request": "launch",
-      "mainClass": "ThreeSum",
-      "projectName": "algorithms_97be4fd1"
-    {
       "type": "node",
       "request": "launch",
-      "name": "Debug Current JS File",
-      "skipFiles": ["<node_internals>/**"],
+      "name": "Run JS File",
       "program": "${file}",
-      "console": "integratedTerminal"
-    }
+      "console": "integratedTerminal",
+      "runtimeExecutable": "/Users/hyeyeonkim/.nvm/versions/node/v23.5.0/bin/node"
     }
   ]
 }
