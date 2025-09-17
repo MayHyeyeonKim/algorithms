@@ -7,7 +7,7 @@
 |   1 | 1249. Minimum Remove to Make Valid Parentheses               |    Med.    |  ✅  |
 |   2 | 408. Valid Word Abbreviation                                 |    Easy    |  ✅  |
 |   3 | 236. Lowest Common Ancestor of a Binary Tree                 |    Med.    |  ✅  |
-|   4 | 543. Diameter of Binary Tree                                 |    Easy    | [ ]  |
+|   4 | 543. Diameter of Binary Tree                                 |    Easy    |  ✅  |
 |   5 | 560. Subarray Sum Equals K                                   |    Med.    | [ ]  |
 |   6 | 215. Kth Largest Element in an Array                         |    Med.    | [ ]  |
 |   7 | 528. Random Pick with Weight                                 |    Med.    | [ ]  |
