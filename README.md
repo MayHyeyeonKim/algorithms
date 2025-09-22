@@ -11,7 +11,7 @@
 |   5 | 560. Subarray Sum Equals K                                   |    Med.    |  ✅  |
 |   6 | 215. Kth Largest Element in an Array                         |    Med.    |  ✅  |
 |   7 | 528. Random Pick with Weight                                 |    Med.    |  ✅  |
-|   8 | 339. Nested List Weight Sum                                  |    Med.    | [ ]  |
+|   8 | 339. Nested List Weight Sum                                  |    Med.    |  ✅  |
 |   9 | 680. Valid Palindrome II                                     |    Easy    | [ ]  |
 |  10 | 1. Two Sum                                                   |    Easy    | [ ]  |
 |  11 | 1091. Shortest Path in Binary Matrix                         |    Med.    | [ ]  |
