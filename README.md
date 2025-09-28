@@ -15,7 +15,7 @@
 |   9 | 680. Valid Palindrome II                                     |    Easy    |  ✅  |
 |  10 | 1. Two Sum                                                   |    Easy    |  ✅  |
 |  11 | 1091. Shortest Path in Binary Matrix                         |    Med.    |  ✅  |
-|  12 | 34. Find First and Last Position of Element in Sorted Array  |    Med.    | [ ]  |
+|  12 | 34. Find First and Last Position of Element in Sorted Array  |    Med.    |  ✅  |
 |  13 | 50. Pow(x, n)                                                |    Med.    | [ ]  |
 |  14 | 227. Basic Calculator II                                     |    Med.    | [ ]  |
 |  15 | 1650. Lowest Common Ancestor of a Binary Tree III            |    Med.    | [ ]  |
