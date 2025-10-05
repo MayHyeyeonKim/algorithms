@@ -17,7 +17,7 @@
 |  11 | 1091. Shortest Path in Binary Matrix                         |    Med.    |  ✅  |
 |  12 | 34. Find First and Last Position of Element in Sorted Array  |    Med.    |  ✅  |
 |  13 | 50. Pow(x, n)                                                |    Med.    |  ✅  |
-|  14 | 227. Basic Calculator II                                     |    Med.    | [ ]  |
+|  14 | 227. Basic Calculator II                                     |    Med.    |  ✅  |
 |  15 | 1650. Lowest Common Ancestor of a Binary Tree III            |    Med.    | [ ]  |
 |  16 | 125. Valid Palindrome                                        |    Easy    | [ ]  |
 |  17 | 138. Copy List with Random Pointer                           |    Med.    | [ ]  |
