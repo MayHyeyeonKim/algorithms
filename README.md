@@ -20,7 +20,7 @@
 |  14 | 227. Basic Calculator II                                     |    Med.    |  ✅  |
 |  15 | 1650. Lowest Common Ancestor of a Binary Tree III            |    Med.    |  ✅  |
 |  16 | 125. Valid Palindrome                                        |    Easy    |  ✅  |
-|  17 | 138. Copy List with Random Pointer                           |    Med.    | [ ]  |
+|  17 | 138. Copy List with Random Pointer                           |    Med.    |  ✅  |
 |  18 | 314. Binary Tree Vertical Order Traversal                    |    Med.    | [ ]  |
 |  19 | 347. Top K Frequent Elements                                 |    Med.    | [ ]  |
 |  20 | 1762. Buildings With an Ocean View                           |    Med.    | [ ]  |
