@@ -25,3 +25,7 @@ console.log(topKFrequent(nums, k)); // [1, 2]
 
 // O(n log n) time complexity
 // O(n) space complexity
+
+// Follow up: Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
+// 1. Min Heap 방식 (O(n log k))
+// 2. Bucket Sort 방식 (O(n))
