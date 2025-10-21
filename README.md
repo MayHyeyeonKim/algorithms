@@ -23,7 +23,7 @@
 |  17 | 138. Copy List with Random Pointer                           |    Med.    |  ✅  |
 |  18 | 314. Binary Tree Vertical Order Traversal                    |    Med.    |  ✅  |
 |  19 | 347. Top K Frequent Elements                                 |    Med.    |  ✅  |
-|  20 | 1762. Buildings With an Ocean View                           |    Med.    | [ ]  |
+|  20 | 1762. Buildings With an Ocean View                           |    Med.    |  ✅  |
 |  21 | 71. Simplify Path                                            |    Med.    | [ ]  |
 |  22 | 199. Binary Tree Right Side View                             |    Med.    | [ ]  |
 |  23 | 31. Next Permutation                                         |    Med.    | [ ]  |
