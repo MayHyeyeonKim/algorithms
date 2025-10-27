@@ -26,7 +26,7 @@
 |  20 | 1762. Buildings With an Ocean View                           |    Med.    |  ✅  |
 |  21 | 71. Simplify Path                                            |    Med.    |  ✅  |
 |  22 | 199. Binary Tree Right Side View                             |    Med.    |  ✅  |
-|  23 | 31. Next Permutation                                         |    Med.    | [ ]  |
+|  23 | 31. Next Permutation                                         |    Med.    |  ✅  |
 |  24 | 498. Diagonal Traverse                                       |    Med.    | [ ]  |
 |  25 | 973. K Closest Points to Origin                              |    Med.    | [ ]  |
 |  26 | 56. Merge Intervals                                          |    Med.    | [ ]  |
