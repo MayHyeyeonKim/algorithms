@@ -11,7 +11,7 @@ function titleToNumber(columnTitle) {
   let result = 0;
 
   for (let ch of columnTitle) {
-    result = result * 26 + (ch.charCodeAt(0) - 64);
+    result = result * 26 + (ch.charCodeAt(0) - 64); // A를 1로 만들려고 offset 보정치를 64로 설정
   }
   return result;
 }
