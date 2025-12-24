@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 279 / 300  
-**Remaining:** 21 problems
+**Current Progress:** 280 / 300  
+**Remaining:** 20 problems
 
 ---
 
@@ -11,7 +11,7 @@
 ### 🧩 Arrays / Greedy
 
 - [x] Maximum Sum With Exactly K Elements (LC 2656)
-- [ ] Divide Array Into Arrays With Max Difference (LC 2966)
+- [x] Divide Array Into Arrays With Max Difference (LC 2966)
 - [ ] Minimum Operations to Make Array Equal II (LC 3036)
 - [ ] Make Array Elements Equal to Zero (LC 3354)
 
