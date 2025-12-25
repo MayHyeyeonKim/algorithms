@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 281 / 300  
-**Remaining:** 19 problems
+**Current Progress:** 282 / 300  
+**Remaining:** 18 problems
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### 🔍 Binary Search / Math
 
-- [ ] Find the Smallest Divisor Given a Threshold (LC 1283)
+- [x] Find the Smallest Divisor Given a Threshold (LC 1283)
 - [ ] Minimum Speed to Arrive on Time (LC 1870)
 - [ ] Maximum Candies Allocated to K Children (LC 2226)
 
