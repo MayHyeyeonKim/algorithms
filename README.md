@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 283 / 300  
-**Remaining:** 17 problems
+**Current Progress:** 284 / 300  
+**Remaining:** 16 problems
 
 ---
 
