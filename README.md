@@ -19,7 +19,7 @@
 
 - [x] Find the Smallest Divisor Given a Threshold (LC 1283)
 - [x] Minimum Speed to Arrive on Time (LC 1870)
-- [ ] Maximum Candies Allocated to K Children (LC 2226)
+- [x] Maximum Candies Allocated to K Children (LC 2226)
 
 ### 🧠 Hashing / Counting
 
