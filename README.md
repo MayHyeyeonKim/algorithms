@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 285 / 300  
-**Remaining:** 15 problems
+**Current Progress:** 286 / 300  
+**Remaining:** 14 problems
 
 ---
 
@@ -11,8 +11,8 @@
 ### 🧩 Arrays / Greedy
 
 - [x] Maximum Sum With Exactly K Elements (LC 2656)
-- [x] Divide Array Into Arrays With Max Dif
-      s to Make Array Equal II (LC 3036)
+- [x] Divide Array Into Arrays With Max Difference (LC 2966)
+- [x] Minimum Operations to Make Array Equal II (LC 3036)
 - [x] Make Array Elements Equal to Zero (LC 3354)
 
 ### 🔍 Binary Search / Math
@@ -29,7 +29,7 @@
 
 ### 🔁 Sliding Window / Two Pointer
 
-- [ ] Maximum Length Substring With Two Occurrences (LC 3090)
+- [x] Maximum Length Substring With Two Occurrences (LC 3090)
 - [ ] Take K of Each Character From Left and Right (LC 2516)
 - [ ] Count Subarrays Where Max Element Appears at Least K Times (LC 2962)
 
