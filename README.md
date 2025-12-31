@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 286 / 300  
-**Remaining:** 14 problems
+**Current Progress:** 287 / 300  
+**Remaining:** 13 problems
 
 ---
 
@@ -30,7 +30,7 @@
 ### 🔁 Sliding Window / Two Pointer
 
 - [x] Maximum Length Substring With Two Occurrences (LC 3090)
-- [ ] Take K of Each Character From Left and Right (LC 2516)
+- [x] Take K of Each Character From Left and Right (LC 2516)
 - [ ] Count Subarrays Where Max Element Appears at Least K Times (LC 2962)
 
 ### 🌳 Trees / DFS
