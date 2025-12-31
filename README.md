@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 288 / 300  
-**Remaining:** 12 problems
+**Current Progress:** 290 / 300  
+**Remaining:** 10 problems
 
 ---
 
@@ -41,8 +41,8 @@
 
 ### 🧵 Stack / Monotonic Stack
 
-- [ ] Sum of Subarray Minimums (LC 907)
-- [ ] Next Greater Element IV (LC 2454)
+- [x] Next Greater Element I (LC 496)
+- [x] Baseball Game (LC 682)
 
 ### 🧠 Dynamic Programming (Recent-feel)
 
