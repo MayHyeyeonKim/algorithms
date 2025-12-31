@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 287 / 300  
-**Remaining:** 13 problems
+**Current Progress:** 288 / 300  
+**Remaining:** 12 problems
 
 ---
 
@@ -31,7 +31,7 @@
 
 - [x] Maximum Length Substring With Two Occurrences (LC 3090)
 - [x] Take K of Each Character From Left and Right (LC 2516)
-- [ ] Count Subarrays Where Max Element Appears at Least K Times (LC 2962)
+- [x] Count Subarrays Where Max Element Appears at Least K Times (LC 2962)
 
 ### 🌳 Trees / DFS
 
