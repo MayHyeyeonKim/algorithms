@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 290 / 300  
-**Remaining:** 10 problems
+**Current Progress:** 293 / 300  
+**Remaining:** 7 problems
 
 ---
 
@@ -44,8 +44,8 @@
 - [x] Next Greater Element I (LC 496)
 - [x] Baseball Game (LC 682)
 
-### 🧠 Dynamic Programming (Recent-feel)
+### 🧠 Dynamic Programming
 
-- [ ] Minimum Cost for Tickets (LC 983)
-- [ ] Solving Questions With Brainpower (LC 2140)
-- [ ] Count Ways to Build Good Strings (LC 2466)
+- [x] Pascal's Triangle (LC 118)
+- [x] Range Sum Query - Immutable (LC 303)
+- [x] Divisor Game (LC 1025)
