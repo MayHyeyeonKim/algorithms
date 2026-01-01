@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 293 / 300  
-**Remaining:** 7 problems
+**Current Progress:** 296 / 300  
+**Remaining:** 4 problems
 
 ---
 
@@ -35,9 +35,9 @@
 
 ### 🌳 Trees / DFS
 
-- [ ] Count Nodes Equal to Average of Subtree (LC 2265)
-- [ ] Amount of Time for Binary Tree to Be Infected (LC 2385)
-- [ ] Find Largest Value in Each Tree Row (LC 515)
+- [x] Binary Tree Paths (LC 257)
+- [x] Increasing Order Search Tree (LC 897)
+- [x] Univalued Binary Tree (LC 965)
 
 ### 🧵 Stack / Monotonic Stack
 
