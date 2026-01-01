@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 298 / 300  
-**Remaining:** 2 problems
+**Current Progress:** 300 / 300  
+**Remaining:** 0 problems
 
 ---
 
@@ -43,6 +43,11 @@
 
 - [x] Next Greater Element I (LC 496)
 - [x] Baseball Game (LC 682)
+
+### 🧺 Queue / Set
+
+- [x] Intersection of Two Arrays (LC 349)
+- [x] Number of Students Unable to Eat Lunch (LC 1700)
 
 ### 🧠 Dynamic Programming
 
