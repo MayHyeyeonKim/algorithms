@@ -1,8 +1,8 @@
 # LeetCode 300 Challenge – Final 22 🔥
 
 **Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 296 / 300  
-**Remaining:** 4 problems
+**Current Progress:** 298 / 300  
+**Remaining:** 2 problems
 
 ---
 
@@ -24,8 +24,8 @@
 ### 🧠 Hashing / Counting
 
 - [x] Count Pairs That Form a Complete Day I (LC 3184)
-- [ ] Find the Number of Good Pairs II (LC 3164)
-- [ ] Count the Number of Special Characters II (LC 3121)
+- [x] Check if All Characters Have Equal Number of Occurrences (LC 1941)
+- [x] Find Words That Can Be Formed by Characters (LC 1160)
 
 ### 🔁 Sliding Window / Two Pointer
 
