@@ -1,56 +1,83 @@
-# LeetCode 300 Challenge – Final 22 🔥
+# LeetCode 300 Challenge – Review Phase (Jan 2026)
 
-**Goal:** Solve 300 LeetCode problems  
-**Current Progress:** 300 / 300  
-**Remaining:** 0 problems
+**Goal (2026):**  
+Re-solve and deeply understand the 300 LeetCode problems completed in 2025.  
+Focus on pattern recognition, time/space tradeoffs, and first-principles thinking.
+
+**Status:**
+
+- 2025 Completion: ✅ 300 / 300
+- 2026 Review Mode: 🔄 In Progress
 
 ---
 
-## ✅ Final 22 Problems Checklist
+## 🎯 Review Strategy
+
+- Solve problems **as if unseen**
+- No peeking at old solutions unless stuck >30 minutes
+- After solving:
+  - Explain the core idea in plain words
+  - Identify the algorithmic pattern
+  - Note edge cases and complexity
+
+---
+
+## 🔁 January 2026 – Review Set
 
 ### 🧩 Arrays / Greedy
 
-- [x] Maximum Sum With Exactly K Elements (LC 2656)
-- [x] Divide Array Into Arrays With Max Difference (LC 2966)
-- [x] Minimum Operations to Make Array Equal II (LC 3036)
-- [x] Make Array Elements Equal to Zero (LC 3354)
+- [ ] Maximum Sum With Exactly K Elements (LC 2656)
+- [ ] Divide Array Into Arrays With Max Difference (LC 2966)
+- [ ] Minimum Operations to Make Array Equal II (LC 3036)
+- [ ] Make Array Elements Equal to Zero (LC 3354)
 
 ### 🔍 Binary Search / Math
 
-- [x] Find the Smallest Divisor Given a Threshold (LC 1283)
-- [x] Minimum Speed to Arrive on Time (LC 1870)
-- [x] Maximum Candies Allocated to K Children (LC 2226)
+- [ ] Find the Smallest Divisor Given a Threshold (LC 1283)
+- [ ] Minimum Speed to Arrive on Time (LC 1870)
+- [ ] Maximum Candies Allocated to K Children (LC 2226)
 
 ### 🧠 Hashing / Counting
 
-- [x] Count Pairs That Form a Complete Day I (LC 3184)
-- [x] Check if All Characters Have Equal Number of Occurrences (LC 1941)
-- [x] Find Words That Can Be Formed by Characters (LC 1160)
+- [ ] Count Pairs That Form a Complete Day I (LC 3184)
+- [ ] Check if All Characters Have Equal Number of Occurrences (LC 1941)
+- [ ] Find Words That Can Be Formed by Characters (LC 1160)
 
 ### 🔁 Sliding Window / Two Pointer
 
-- [x] Maximum Length Substring With Two Occurrences (LC 3090)
-- [x] Take K of Each Character From Left and Right (LC 2516)
-- [x] Count Subarrays Where Max Element Appears at Least K Times (LC 2962)
+- [ ] Maximum Length Substring With Two Occurrences (LC 3090)
+- [ ] Take K of Each Character From Left and Right (LC 2516)
+- [ ] Count Subarrays Where Max Element Appears at Least K Times (LC 2962)
 
 ### 🌳 Trees / DFS
 
-- [x] Binary Tree Paths (LC 257)
-- [x] Increasing Order Search Tree (LC 897)
-- [x] Univalued Binary Tree (LC 965)
+- [ ] Binary Tree Paths (LC 257)
+- [ ] Increasing Order Search Tree (LC 897)
+- [ ] Univalued Binary Tree (LC 965)
 
 ### 🧵 Stack / Monotonic Stack
 
-- [x] Next Greater Element I (LC 496)
-- [x] Baseball Game (LC 682)
+- [ ] Next Greater Element I (LC 496)
+- [ ] Baseball Game (LC 682)
 
 ### 🧺 Queue / Set
 
-- [x] Intersection of Two Arrays (LC 349)
-- [x] Number of Students Unable to Eat Lunch (LC 1700)
+- [ ] Intersection of Two Arrays (LC 349)
+- [ ] Number of Students Unable to Eat Lunch (LC 1700)
 
 ### 🧠 Dynamic Programming
 
-- [x] Pascal's Triangle (LC 118)
-- [x] Range Sum Query - Immutable (LC 303)
-- [x] Divisor Game (LC 1025)
+- [ ] Pascal's Triangle (LC 118)
+- [ ] Range Sum Query - Immutable (LC 303)
+- [ ] Divisor Game (LC 1025)
+
+---
+
+## 🧪 Reflection Notes (per problem)
+
+For each problem, answer:
+
+- Why does this pattern apply?
+- What would break a naïve solution?
+- What constraint forces this complexity?
+- Can I explain it without code?
