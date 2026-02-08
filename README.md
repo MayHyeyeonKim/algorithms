@@ -1,4 +1,4 @@
-# LeetCode 300 Challenge – Review Phase (Jan 2026)
+# LeetCode 300 Challenge – Review Phase (Feb 2026)
 
 **Goal (2026):**  
 Re-solve and deeply understand the 300 LeetCode problems completed in 2025.  
