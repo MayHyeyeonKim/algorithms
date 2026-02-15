@@ -51,7 +51,7 @@ Focus on pattern recognition, time/space tradeoffs, and first-principles thinkin
 
 ### 🌳 Trees / DFS
 
-- [ ] Binary Tree Paths (LC 257)
+- [x] Binary Tree Paths (LC 257)
 - [ ] Increasing Order Search Tree (LC 897)
 - [ ] Univalued Binary Tree (LC 965)
 
