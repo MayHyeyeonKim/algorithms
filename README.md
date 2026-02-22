@@ -58,7 +58,7 @@ Focus on pattern recognition, time/space tradeoffs, and first-principles thinkin
 ### 🧵 Stack / Monotonic Stack
 
 - [ ] Next Greater Element I (LC 496)
-- [ ] Baseball Game (LC 682)
+- [x] Baseball Game (LC 682)
 
 ### 🧺 Queue / Set
 
